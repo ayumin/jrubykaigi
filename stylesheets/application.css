@@ -13,7 +13,7 @@ p {
 p, address { font-style:normal; }
 
 a:link, a:visited {
-	color:#99ccff;
+	color:#ccc;
 	text-decoration:none;
 }
 a:hover { text-decoration:underline; }
@@ -29,7 +29,7 @@ a:hover { text-decoration:underline; }
 #container {
 	background:url(../images/headerBg.png) 0 0 no-repeat;
 	margin:0 auto;
-	padding;
+	padding:;
 	text-align:left;
 	width:915px;
 }
@@ -58,13 +58,13 @@ a:hover { text-decoration:underline; }
 		height:33px;
 		margin:0 15px 0 0;
 		padding:0 0 0;
-		width:106px;
+		width:225px;
 	}
 	#primary.nav li a {
 		display:block;
 		height:33px;
 		text-indent:-999em;
-		width:106px;
+		width:232px;
 	}
 	#primary.nav li a:link, #primary.nav li a:visited, #primary.nav li.selected a:hover {
 		color:#fff;
@@ -85,18 +85,12 @@ a:hover { text-decoration:underline; }
 	}
 	
 	li#nav_overview a { background:url(../images/menu_off.gif) 0 0 no-repeat; }
-	li#nav_schedule a { background:url(../images/menu_off.gif) -121px 0 no-repeat; }
-	li#nav_speakers a { background:url(../images/menu_off.gif) -242px 0 no-repeat; }
-	li#nav_sponsors a { background:url(../images/menu_off.gif) -363px 0 no-repeat; }
-	li#nav_location a { background:url(../images/menu_off.gif) -484px 0 no-repeat; }
-	li#nav_register a { background:url(../images/menu_off.gif) -605px 0 no-repeat; }
+	li#nav_schedule a { background:url(../images/menu_off.gif) -240px 0 no-repeat; }
+	li#nav_sponsors a { background:url(../images/menu_off.gif) -480px 0 no-repeat; }
 	
 	li#nav_overview a:hover, li#nav_overview.selected a { background:url(../images/menu_on.gif) 0 0 no-repeat; }
-	li#nav_schedule a:hover, li#nav_schedule.selected a { background:url(../images/menu_on.gif) -121px 0 no-repeat; }
-	li#nav_speakers a:hover, li#nav_speakers.selected a { background:url(../images/menu_on.gif) -242px 0 no-repeat; }
-	li#nav_sponsors a:hover, li#nav_sponsors.selected a { background:url(../images/menu_on.gif) -363px 0 no-repeat; }
-	li#nav_location a:hover, li#nav_location.selected a { background:url(../images/menu_on.gif) -484px 0 no-repeat; }
-	li#nav_register a:hover, li#nav_register.selected a { background:url(../images/menu_on.gif) -605px 0 no-repeat; }
+	li#nav_schedule a:hover, li#nav_schedule.selected a { background:url(../images/menu_on.gif) -240px 0 no-repeat; }
+	li#nav_sponsors a:hover, li#nav_sponsors.selected a { background:url(../images/menu_on.gif) -480px 0 no-repeat; }
 	
 	* html #primary.nav li { font-size:1.6em; }
 	* html #primary.nav li a { display:inline-block; }
@@ -118,8 +112,8 @@ a:hover { text-decoration:underline; }
   }
 	#overview h2.pageTitle {
 		background:url(../images/join-us-after-rubyconf.png) 0 0 no-repeat;
-		height:44px;
-		margin:0;
+		height:34px;
+		margin:0 0 8px;
 		text-indent:-999em;
 		width: 670px;
 	}
@@ -136,13 +130,6 @@ a:hover { text-decoration:underline; }
 		margin:0 0 8px;
 		text-indent:-999em;
 		width: 213px;
-	}
-	#event_speakers h2.pageTitle {
-		background:url(../images/event-speakers.png) 0 0 no-repeat;
-		height:34px;
-		margin:0 0 8px;
-		text-indent:-999em;
-		width: 234px;
 	}
 	#event_sponsors h2.pageTitle {
 		background:url(../images/event-sponsors.png) 0 0 no-repeat;
@@ -167,7 +154,7 @@ a:hover { text-decoration:underline; }
 	background:url(../images/ribbon2.png) 0 0 no-repeat;
 	display:inline;
 	float:right;
-	height:1000px;
+	height:1500px;
 	padding:0 0 0;
 	position:relative;
 	text-align:center;
@@ -178,7 +165,7 @@ a:hover { text-decoration:underline; }
   .aside h5 {
     font-size: 1.5em;
   }
-	#event_sponsors .aside {
+	.aside {
 		background:url(../images/ribbon2.png) 0 0 no-repeat;
 		height:976px;
 	}
@@ -189,22 +176,19 @@ a:hover { text-decoration:underline; }
 		text-indent:-999em;
 		width:128px;
 	}
-		#event_sponsors .aside h3 {
+	.aside h3 {
 			background:url(../images/speakers-2.png) 0 0 no-repeat;
 			height:17px;
 			width:120px;
 		}
 	.aside ul {
-		margin:5px 0 0;
-	}
-		#event_sponsors .aside ul {
-			margin:13px auto 0;
-			width:104px;
+		margin:30px auto 0;
+		width:104px;
 		}
 	.aside ul li {
 		margin:0 0 20px;
 	}
-		#event_sponsors .aside ul li {
+	.aside ul li {
 			margin-bottom:18px;
 		}
 	.aside ul li div.speaker_name {
@@ -252,7 +236,7 @@ a:hover { text-decoration:underline; }
 				text-transform:uppercase;
 			}
 			#location p a {
-				color:#99ccff;
+				color:#ccc;
 				text-decoration:none;
 			}
 		
@@ -264,56 +248,44 @@ a:hover { text-decoration:underline; }
 		width:304px;
 	}
 		#speakers h3 {
-			background:url(../images/speakers.png) 0 0 no-repeat;
-			height:26px;
+			background:url(../images/sponsors.png) 0 0 no-repeat;
+			height:35px;
 			text-indent:-999em;
-			width:177px;
+			width:199px;
 		}
-		#speakers h4 {
-			font-size:1em;
-			line-height:1.2em;
-			margin:0;
-		}
-		#speakers img { margin-right:15px; }
 		#speakers li {
 			clear:left;
-			color:#fff;
-			font-size:1.4em;
-			margin:0 0 30px;
+			margin:-16px 0 1em 0;
+		  text-align: center;
 		}
 		#speakers p {
 			font-size:1em;
 			line-height:1.2em;
 		}
-		#speakers a, .aside a[href*=speakers] {
-		  font-size:1.3em;
-		  display:block;
-		  text-align:right;
-		}
 		.aside a {
-		  color: #005195;
+		  color: #666;
 		}
 		.aside a[href*=speakers] {
 		  text-align: center;
 		  margin-bottom: 10px;
 		}
 		#speakers ul { margin-top:28px; }
-		#viewMore {
-			font: 1.4em/1.1em 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, Arial;
-			margin: 15px 0 30px;
-		}
-		#viewMore a:link, #viewMore a:visited {
-			color:#005195;
-			text-decoration:none;
-		}
-		#viewMore a:hover { text-decoration:underline; }
 		p#more_speakers { font-size:1.4em; }
 		
 	/* Schedule - Event Schedule */
-	#schedule {
+	#aaa{
 		float:right;
+}
+	#news, #schedule {
 		width:404px;
 	}
+		#news h3 {
+			background:url(../images/news.png) 0 0 no-repeat;
+			height:26px;
+			margin:0 24px 11px;
+			text-indent:-999em;
+			width:175px;
+		}
 		#schedule h3 {
 			background:url(../images/schedule.png) 0 0 no-repeat;
 			height:26px;
@@ -321,7 +293,20 @@ a:hover { text-decoration:underline; }
 			text-indent:-999em;
 			width:175px;
 		}
-		#schedule > p {
+		#news dl {
+			color:#d9d9d9;
+			font: 1.5em/1.1em 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, Arial;
+			padding: 10px;
+		}
+		#news dt {
+			float: left;
+			clear: both;
+			padding: 10px;
+		}
+		#news dd {
+			padding: 10px;
+		}
+		#news, #schedule > p {
 			margin-bottom: 20px;
 		}
 		#schedule table {
@@ -336,8 +321,7 @@ a:hover { text-decoration:underline; }
 			padding: 10px 0 7px 14px;
 			/*vertical-align: middle;*/
 		}
-		td.startTime { width:74px; }
-		td.endTime { width:74px; }
+		td.time { width:110px; }
 		td.event {
 			border-bottom:0;
 			font-size:1.15em;
@@ -350,9 +334,13 @@ a:hover { text-decoration:underline; }
 
 
 #schedule_of_events .mid, #the_speakers .mid, #the_sponsors .mid { padding:0; }
-.event, .speaker, .sponsor {
-	border-bottom:1px solid #525252;
+.sponsor {
 	padding:20px 28px 28px 36px;
+}
+.event {
+	border-bottom:1px solid #525252;
+	padding:20px 28px 10px 36px;
+	clear:both;
 }
 	.event h4 {
 		color:#fff568;
@@ -375,6 +363,21 @@ a:hover { text-decoration:underline; }
 		text-transform:uppercase;
 	}
 	.last_item { border:0; }
+
+	.speaker {
+		border-left:3px solid #525252;
+		margin:10px 0;
+		padding:15px 20px 15px 20px;
+	}
+	.speaker img.floatLeft {
+		margin:0 18px 0 0;
+	}
+	.speaker p {
+		padding-left: 0px;
+	}
+	.speaker h5 {
+	}
+
 	
 #location_info .mid { padding:1px 40px 32px 0; }
 	#location_info address {
@@ -395,24 +398,18 @@ a:hover { text-decoration:underline; }
 		color:#fff;
 	}
 
-	.speaker h3.speaker_name, .sponsor h3.sponsor_name {
+	.sponsor h3.sponsor_name {
 		color:#fff;
 		font:bold 1.7em Helvetica, Arial;
 	}
-	.speaker img.floatLeft {
-		margin:0 18px 5px 0;
-	}
-	.speaker p, .sponsor p {
+	.sponsor p {
 		color:#fff;
 		margin:13px 0 0;
-	}
-	.speaker p {
-		padding-left: 120px;
 	}
 	.sponsor p {
 	  padding-left: 155px;
 	}
-	.speaker p.title_co, .sponsor p.service_product {
+	.sponsor p.service_product {
 		color:#fff568;
 		font:1.6em/1.2em Helvetica, Arial;
 		margin:0 0 13px;
@@ -479,6 +476,7 @@ a:hover { text-decoration:underline; }
 	display: inline;
 	float: right;
 }
+
 
 
 /* Clearing */

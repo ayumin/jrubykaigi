@@ -1,0 +1,174 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-script-type" content="text/javascript">
+	<title>JRubyKaigi2010</title>
+	<link href="stylesheets/reset.css" media="all" rel="stylesheet" type="text/css">
+	<link href="stylesheets/application.css" media="all" rel="stylesheet" type="text/css">
+</head>
+<body id="overview">
+<div id="wrapper">	
+	<div id="container">
+		<div class="header">
+			<h1><a href="index.html.ja" title="JRubyKaigi2010 - Aug 28, 2010"><img src="images/jrubyconf-sf.png" alt="JRubyKaigi2010" height="" width="810"></a></h1>
+		</div><!--/End Header -->
+		
+		<div class="nav" id="primary">
+			<ul>
+				<li class="selected" id="nav_overview"><a href="index.html.ja">開催概要</a></li>
+				<li id="nav_schedule"><a href="schedule.html.ja">スケジュール</a></li>
+				<li class="last"  id="nav_sponsors"><a href="sponsors.html.ja">スポンサー</a></li>
+			</ul>
+		</div>
+		
+		<div class="section" id="content">
+			<div id="preamble">
+				<h2 class="pageTitle">Join us the day 2nd in RubyKaigi...</h2>
+				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Register Now" target="_target"><img src="images/btn-register-now.png" alt="Register Now" height="43" width="187"></a></p>
+				<p class="intro">ああああああああああああああああああああああああああああああああ</p>
+			</div>
+			
+			<div class="" id="aaa">
+			<div class="box404" id="news">
+				<div class="mid">
+					<h3>News</h3>
+					<dl>
+					<dt>06/18</dt>
+					<dd>ああああああああああああああああああああああああああああああああ</dd>
+					<dt>06/19</dt>
+					<dd>ああああああああああああああああああああああああああああああああ</dd>
+					</dl>
+				</div>
+				<div class="bot"></div>
+			</div>
+			<div class="box404" id="schedule">
+				<div class="mid">
+					<h3>Schedule</h3>
+					<table>
+						<tr>
+							<td class="time">13:25 - 13:30</td>
+							<td class="event"><a href="schedule.html.ja#1">Opening - Koichiro OHBA</a></td>
+						</tr>
+						<tr>
+							<td class="time">13:30 - 14:00</td>
+							<td class="event"><a href="schedule.html.ja#2">Keynote - Charles Nutter/Thomas Eebo</a></td>
+					  </tr>
+						<tr>
+							<td class="time">14:00 - 14:30</td>
+							<td class="event"><a href="schedule.html.ja#3">RedBridge - Yoko Harada @yokolet</a></td>
+						</tr>
+						<tr>
+							<td class="time">14:30 - 15:00</td>
+							<td class="event"><a href="schedule.html.ja#4">JRuby for GAE/j - Takeru SASAKI @urekat</a></td>
+						</tr>
+						<tr>
+							<td class="time">15:00 - 15:30</td>
+							<td class="event">break</td>
+						</tr>
+						<tr>
+							<td class="time">15:30 - 15:50</td>
+							<td class="event"><a href="schedule.html.ja#5">JRuby on Rails - (Hirotsugu ASARI @hiro_asari)</a></td>
+						</tr>
+						<tr>
+							<td class="time">15:50 - 16:10</td>
+							<td class="event"><a href="schedule.html.ja#6">Hadoop Papyrus - Koichi Fujikawa @fujibee</a></td>
+						</tr>
+						<tr>
+							<td class="time">16:10 - 16:30</td>
+							<td class="event"><a href="schedule.html.ja#7">(TBD) - Hiroshi NAKAMURA @nahi</a></td>
+						</tr>
+						<tr>
+							<td class="time">16:30 - 17:00</td>
+							<td class="event">break</td>
+						</tr>
+						<tr>
+							<td class="time">17:00 - 18:00</td>
+							<td class="event"><a href="schedule.html.ja#8">Lightning Talks</a></td>
+						</tr>
+					</table>
+				</div>
+				<div class="bot"></div>
+			</div>
+			</div><!--/End Schedule Section -->
+			
+			<div class="box305" id="speakers">
+				<div class="mid">
+					<h3>Presented by</h3>
+					<ul>
+						<li><a href="http://www.engineyard.com" target="_blank"><img src="images/logo-engine-yard.png" alt="Engine Yard Rails Hosting" height="125"></a></li>
+					</ul>
+					<p>Contact <a href="mailto:events@engineyard.com">Leah Silber</a> for sponsorship information.</p>
+				</div>
+				<div class="bot"></div>
+			</div><!--/End Speakers -->
+			
+			<div class="box305" id="location">
+				<div class="mid">
+				<h3>Location</h3>
+				<div id="nextEventInfo">
+					<a href="http://www.epochal.or.jp/"><img src="images/photo_location.jpg" alt="" height="92" width="115" class="floatLeft"></a>
+					<p><a href="http://www.epochal.or.jp/" target="_blank">つくば国際会議場<br>Tsukuba International Congress Center</a></p>
+					<p>茨城県つくば市<br/>竹園2-20-3<br/>Tel: 029-861-0001</p>
+				</div>
+				</div>
+				<div class="bot"></div>
+			</div>
+				
+		</div><!--/End Content Section -->
+
+		<div class="aside">
+			<h3>Presented by</h3>
+			<ul>
+				<li>
+					<div class="speaker_name">Koichiro OHBA</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Charles Nutter</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Thomas Eebo</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Yoko Harada</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Takeru SASAKI</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Hirotsugu ASARI </div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Koichi Fujikawa</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Hiroshi NAKAMURA</div>
+					<span class="title_co">***</span>
+				</li>
+			</ul>
+			<a href="schedule.html.ja">More Information...</a>
+		</div>
+
+		<div class="cB"></div>
+
+	</div><!--/End Container -->
+</div><!--/End Wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-764576-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

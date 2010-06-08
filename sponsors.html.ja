@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-script-type" content="text/javascript">
+	<title>JRubyKaigi2010</title>
+	<link href="stylesheets/reset.css" media="all" rel="stylesheet" type="text/css">
+	<link href="stylesheets/application.css" media="all" rel="stylesheet" type="text/css">
+</head>
+<body id="event_sponsors">
+<div id="wrapper">	
+	<div id="container">
+		<div class="header">
+			<h1><a href="index.html.ja" title="JRubyKaigi2010 - Aug 28, 2010"><img src="images/jrubyconf-sf.png" alt="JRubyKaigi2010" height="" width="810"></a></h1>
+		</div><!--/End Header -->
+		
+		<div class="nav" id="primary">
+			<ul>
+				<li id="nav_overview"><a href="index.html.ja">Overview</a></li>
+				<li id="nav_schedule"><a href="schedule.html.ja">Schedule</a></li>
+				<li class="selected last"  id="nav_sponsors"><a href="sponsors.html.ja">Sponsors</a></li>
+			</ul>
+		</div>
+		
+		<div class="section" id="content">
+			<div id="preamble">
+				<h2 class="pageTitle">Sponsors</h2>
+				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Register Now" target="_target"><img src="images/btn-register-now.png" alt="Register Now" height="43" width="187"></a></p>
+				<p class="intro">ああああああああああああああああああああああああああああああああ</p>
+			</div>
+			
+			<div class="box722" id="the_sponsors">
+				<div class="mid">
+				  <h2>Presented By</h2>
+					<div class="sponsor">
+						<a class="floatLeft" href="http://www.engineyard.com/" title="Engine Yard Inc."><img src="images/logo-engine-yard.png" alt="Engine Yard Rails Hosting" height="143" width="83"></a>
+						<h3 class="sponsor_name">Engine Yard Inc.</h3>
+						<p class="service_product">Rails in the Cloud</p>
+						<p>Engine Yard provides automation technologies and services for Ruby on Rails, including Engine Yard Cloud, an application services platform for web developers and web teams. It provides easy-to-use, automated Rails application deployment and management, with a design philosophy that allows easy migration of existing applications. Engine Yard employs top industry experts and sponsors or contributes to many Open Source projects and efforts such as <a href="www.rubyonrails.org">Ruby on Rails</a>, JRuby and <a href="http://www.rubini.us">Rubinius</a>. Headquartered in San Francisco, Calif., Engine Yard is backed by Benchmark Capital, New Enterprise Associates, and Amazon.com.</p>
+					</div>
+				</div>
+				<div class="bot"></div>
+			</div>
+				
+		</div><!--/End Content Section -->
+		
+		<div class="aside">
+			<h3>Presented by</h3>
+			<ul>
+				<li>
+					<div class="speaker_name">Koichiro OHBA</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Charles Nutter</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Thomas Eebo</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Yoko Harada</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Takeru SASAKI</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Hirotsugu ASARI </div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Koichi Fujikawa</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Hiroshi NAKAMURA</div>
+					<span class="title_co">***</span>
+				</li>
+			</ul>
+			<a href="schedule.html.ja">More Information...</a>
+		</div>		
+		<div class="cB"></div>
+
+	</div><!--/End Container -->
+</div><!--/End Wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-764576-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

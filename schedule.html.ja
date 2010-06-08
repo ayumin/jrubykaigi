@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-script-type" content="text/javascript">
+	<title>JRubyKaigi2010</title>
+	<link href="stylesheets/reset.css" media="all" rel="stylesheet" type="text/css">
+	<link href="stylesheets/application.css" media="all" rel="stylesheet" type="text/css">
+</head>
+<body id="event_schedule">
+<div id="wrapper">	
+	<div id="container">
+		<div class="header">
+			<h1><a href="index.html.ja" title="JRubyKaigi2010 - Aug 28, 2010"><img src="images/jrubyconf-sf.png" alt="JRubyKaigi2010" height="" width="810"></a></h1>
+		</div><!--/End Header -->
+		
+		<div class="nav" id="primary">
+			<ul>
+				<li id="nav_overview"><a href="index.html.ja">Overview</a></li>
+				<li class="selected" id="nav_schedule"><a href="schedule.html.ja">Schedule</a></li>
+				<li class="last"  id="nav_sponsors"><a href="sponsors.html.ja">Sponsors</a></li>
+			</ul>
+		</div>
+		
+		<div class="section" id="content">
+			<div id="preamble">
+				<h2 class="pageTitle">Event Schedule</h2>
+				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Register Now" target="_target"><img src="images/btn-register-now.png" alt="Register Now" height="43" width="187"></a></p>
+				<p class="intro">ああああああああああああああああああああああああああああああああ</p>
+			</div>
+			
+			<div class="box722" id="schedule_of_events">
+				<div class="mid">
+					<div class="event">
+						<span id="1">13:25 - 13:30</span>
+						<h4>Opening</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker"> 
+								<img src="images/temp.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>Koichiro OHBA</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					<div class="event">
+						<span id="2">13:30 - 14:00 </span>
+						<h4>Keynote</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker"> 
+								<img src="images/photo_C.Nutter.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>Charles Nutter</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+							<div class="speaker"> 
+								<img src="images/photo_T.Enebo.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>Thomas Eebo</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					<div class="event">
+						<span id="3">14:00 - 14:30</span>
+						<h4>RedBridge</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker"> 
+								<img src="images/photo_Y.Harada.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>Yoko Harada @yokolet</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					<div class="event">
+						<span id="4">14:30 - 15:0</span>
+						<h4>JRuby for GAE/j</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker">
+								<img src="images/photo_T.Sasaki.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>Takeru SASAKI @urekat</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					<div class="event">
+						<span>15:00 - 15:30</span>
+						<h4>break</h4>
+					</div>
+					<div class="event">
+						<span id="5">15:30 - 15:50</span>
+						<h4>JRuby on Rails</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker">
+								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5> Hirotsugu ASARI @hiro_asari</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					<div class="event">
+						<span id="6">15:50 - 16:10</span>
+						<h4>Hadoop Papyrus</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker">
+								<img src="images/photo_K.Fujikawa.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>Koichi Fujikawa @fujibee</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					<div class="event">
+						<span id="7">16:10-16:30</span>
+						<h4>TBD</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker">
+								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>Hiroshi NAKAMURA @nahi</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					<div class="event">
+						<span>16:30-17:00</span>
+						<h4>break</h4>
+					</div>
+					
+					<div class="event last_item">
+						<span id="8">17:00-18:00</span>
+						<h4>Lightning Talks</h4>
+						<p>ああああああああああああああああああああああああああああああああ</p>
+							<div class="speaker">
+								<img src="images/temp.jpg" alt="" height="80" width="80" class="floatLeft">
+								<h5>aaaaaa</h5>
+								<p>ああああああああああああああああああああああああああああああああ</p>
+							</div>
+					</div>
+					
+				</div>
+				<div class="bot"></div>
+			</div>
+				
+		</div><!--/End Content Section -->
+		
+		<div class="aside">
+			<h3>Presented by</h3>
+			<ul>
+				<li>
+					<div class="speaker_name">Koichiro OHBA</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Charles Nutter</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Thomas Eebo</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Yoko Harada</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Takeru SASAKI</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Hirotsugu ASARI </div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Koichi Fujikawa</div>
+					<span class="title_co">***</span>
+				</li>
+				<li>
+					<div class="speaker_name">Hiroshi NAKAMURA</div>
+					<span class="title_co">***</span>
+				</li>
+			</ul>
+			<a href="schedule.html.ja">More Information...</a>
+		</div>
+		
+		<div class="cB"></div>
+
+	</div><!--/End Container -->
+</div><!--/End Wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-764576-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
