@@ -13,7 +13,6 @@
 	<div id="container">
 		<div class="header">
 			<h1><a href="index.html.ja" title="JRubyKaigi2010 - Aug 28, 2010"><img src="images/jrubyconf-sf.png" alt="JRubyKaigi2010" height="" width="810"></a></h1>
-		<p>[<a href="./index.html.en">en</a>][ja]</p>
 		</div><!--/End Header -->
 		
 		<div class="nav" id="primary">
@@ -106,6 +105,15 @@
 					<a href="http://www.epochal.or.jp/"><img src="images/photo_location.jpg" alt="" height="92" width="115" class="floatLeft"></a>
 					<p><a href="http://www.epochal.or.jp/" target="_blank">つくば国際会議場<br>Tsukuba International Congress Center</a></p>
 					<p>茨城県つくば市<br/>竹園2-20-3<br/>Tel: 029-861-0001</p>
+				</div>
+				</div>
+				<div class="bot"></div>
+			</div>
+			<div class="box305">
+				<div class="mid">
+				<h3>Language</h3>
+				<div id="nextEventInfo">
+				  [<a href="./index.html.en">en</a>][ja]
 				</div>
 				</div>
 				<div class="bot"></div>
