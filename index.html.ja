@@ -110,7 +110,7 @@
 				<div class="bot"></div>
 			</div>
 
-			<div class="box305">
+			<div class="box305" id="language">
 				<div class="mid">
 				<h3>Language</h3>
 				  <p>[<a href="./index.html.en">en</a>][ja]</p>
