@@ -109,12 +109,11 @@
 				</div>
 				<div class="bot"></div>
 			</div>
+
 			<div class="box305">
 				<div class="mid">
 				<h3>Language</h3>
-				<div id="nextEventInfo">
-				  [<a href="./index.html.en">en</a>][ja]
-				</div>
+				  <p>[<a href="./index.html.en">en</a>][ja]</p>
 				</div>
 				<div class="bot"></div>
 			</div>

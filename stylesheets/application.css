@@ -240,6 +240,31 @@ a:hover { text-decoration:underline; }
 				text-decoration:none;
 			}
 		
+	#language {
+		clear:left;
+		width:304px;
+	}
+		#language h3 {
+			background:url(../images/location.png) 0 0 no-repeat;
+			height:25px;
+			margin:0 0 20px;
+			text-indent:-999em;
+			width:160px;
+		}
+			#language img.floatLeft {
+				margin:0 7px 0 0;
+			}
+			#language p {
+				color:#fff;
+				font: 1.1em/1.2em Helvetica, Arial;
+				margin:0 0 12px;
+				text-transform:uppercase;
+			}
+			#language p a {
+				color:#ccc;
+				text-decoration:none;
+			}
+
 	/* Home Page - Speakers */
 	#speakers {
 		display:inline;
