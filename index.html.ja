@@ -13,6 +13,7 @@
 	<div id="container">
 		<div class="header">
 			<h1><a href="index.html.ja" title="JRubyKaigi2010 - Aug 28, 2010"><img src="images/jrubyconf-sf.png" alt="JRubyKaigi2010" height="" width="810"></a></h1>
+		<p>[<a href="./index.html.en">en</a>][ja]</p>
 		</div><!--/End Header -->
 		
 		<div class="nav" id="primary">
@@ -35,10 +36,8 @@
 				<div class="mid">
 					<h3>News</h3>
 					<dl>
-					<dt>06/18</dt>
-					<dd>ああああああああああああああああああああああああああああああああ</dd>
 					<dt>06/19</dt>
-					<dd>ああああああああああああああああああああああああああああああああ</dd>
+					<dd>JRubyKaigi2010サイトオープン</dd>
 					</dl>
 				</div>
 				<div class="bot"></div>
@@ -49,15 +48,15 @@
 					<table>
 						<tr>
 							<td class="time">13:30 - 14:00</td>
-							<td class="event"><a href="schedule.html.ja#2">Keynote</a></td>
+							<td class="event"><a href="schedule.html.ja#1">Keynote</a></td>
 					  </tr>
 						<tr>
 							<td class="time">14:00 - 14:30</td>
-							<td class="event"><a href="schedule.html.ja#3">RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</a></td>
+							<td class="event"><a href="schedule.html.ja#2">RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</a></td>
 						</tr>
 						<tr>
 							<td class="time">14:30 - 15:00</td>
-							<td class="event"><a href="schedule.html.ja#4">Rubyistのための今日から始めたくなるGoogleAppEngine</a></td>
+							<td class="event"><a href="schedule.html.ja#3">Rubyistのための今日から始めたくなるGoogleAppEngine</a></td>
 						</tr>
 						<tr>
 							<td class="time">15:00 - 15:30</td>
@@ -65,15 +64,15 @@
 						</tr>
 						<tr>
 							<td class="time">15:30 - 15:50</td>
-							<td class="event"><a href="schedule.html.ja#5">JRuby on Rails</a></td>
+							<td class="event"><a href="schedule.html.ja#4">JRuby on Rails</a></td>
 						</tr>
 						<tr>
 							<td class="time">15:50 - 16:10</td>
-							<td class="event"><a href="schedule.html.ja#6">RubyとDSLでMapReduce ~ Hadoop</a></td>
+							<td class="event"><a href="schedule.html.ja#5">RubyとDSLでMapReduce ~ Hadoop</a></td>
 						</tr>
 						<tr>
 							<td class="time">16:10 - 16:30</td>
-							<td class="event"><a href="schedule.html.ja#7">JRuby Hacking Guide</a></td>
+							<td class="event"><a href="schedule.html.ja#6">JRuby Hacking Guide</a></td>
 						</tr>
 						<tr>
 							<td class="time">16:30 - 17:00</td>
@@ -81,7 +80,7 @@
 						</tr>
 						<tr>
 							<td class="time">17:00 - 18:00</td>
-							<td class="event"><a href="schedule.html.ja#8">Lightning Talks</a></td>
+							<td class="event"><a href="schedule.html.ja#7">Lightning Talks</a></td>
 						</tr>
 					</table>
 				</div>
@@ -129,23 +128,23 @@
 				</li>
 				<li>
 					<div class="speaker_name">Yoko Harada</div>
-					<span class="title_co">***</span>
+					<span class="title_co">Self-employed, part-time student</span>
 				</li>
 				<li>
 					<div class="speaker_name">Takeru SASAKI</div>
-					<span class="title_co">***</span>
+					<span class="title_co">Colt inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Hirotsugu ASARI </div>
-					<span class="title_co">***</span>
+					<span class="title_co">Engine Yard Inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Koichi Fujikawa</div>
-					<span class="title_co">***</span>
+					<span class="title_co">Cirius Technologies, Inc.</span>
 				</li>
 				<li>
-					<div class="speaker_name">Hiroshi NAKAMURA</div>
-					<span class="title_co">***</span>
+					<div class="speaker_name">Hiroshi Nakamura a.k.a NaHi</div>
+					<span class="title_co">Sarion Systems Research</span>
 				</li>
 			</ul>
 			<a href="schedule.html.ja">More Information...</a>
