@@ -48,40 +48,36 @@
 					<h3>Schedule</h3>
 					<table>
 						<tr>
-							<td class="time">13:25 - 13:30</td>
-							<td class="event"><a href="schedule.html.ja#1">Opening - Koichiro OHBA</a></td>
-						</tr>
-						<tr>
 							<td class="time">13:30 - 14:00</td>
-							<td class="event"><a href="schedule.html.ja#2">Keynote - Charles Nutter/Thomas Eebo</a></td>
+							<td class="event"><a href="schedule.html.ja#2">Keynote</a></td>
 					  </tr>
 						<tr>
 							<td class="time">14:00 - 14:30</td>
-							<td class="event"><a href="schedule.html.ja#3">RedBridge - Yoko Harada @yokolet</a></td>
+							<td class="event"><a href="schedule.html.ja#3">RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</a></td>
 						</tr>
 						<tr>
 							<td class="time">14:30 - 15:00</td>
-							<td class="event"><a href="schedule.html.ja#4">JRuby for GAE/j - Takeru SASAKI @urekat</a></td>
+							<td class="event"><a href="schedule.html.ja#4">Rubyistのための今日から始めたくなるGoogleAppEngine</a></td>
 						</tr>
 						<tr>
 							<td class="time">15:00 - 15:30</td>
-							<td class="event">break</td>
+							<td class="event">Break</td>
 						</tr>
 						<tr>
 							<td class="time">15:30 - 15:50</td>
-							<td class="event"><a href="schedule.html.ja#5">JRuby on Rails - (Hirotsugu ASARI @hiro_asari)</a></td>
+							<td class="event"><a href="schedule.html.ja#5">JRuby on Rails</a></td>
 						</tr>
 						<tr>
 							<td class="time">15:50 - 16:10</td>
-							<td class="event"><a href="schedule.html.ja#6">Hadoop Papyrus - Koichi Fujikawa @fujibee</a></td>
+							<td class="event"><a href="schedule.html.ja#6">RubyとDSLでMapReduce ~ Hadoop</a></td>
 						</tr>
 						<tr>
 							<td class="time">16:10 - 16:30</td>
-							<td class="event"><a href="schedule.html.ja#7">(TBD) - Hiroshi NAKAMURA @nahi</a></td>
+							<td class="event"><a href="schedule.html.ja#7">JRuby Hacking Guide</a></td>
 						</tr>
 						<tr>
 							<td class="time">16:30 - 17:00</td>
-							<td class="event">break</td>
+							<td class="event">Break</td>
 						</tr>
 						<tr>
 							<td class="time">17:00 - 18:00</td>
@@ -122,16 +118,14 @@
 			<h3>Presented by</h3>
 			<ul>
 				<li>
-					<div class="speaker_name">Koichiro OHBA</div>
-					<span class="title_co">***</span>
-				</li>
-				<li>
 					<div class="speaker_name">Charles Nutter</div>
-					<span class="title_co">***</span>
+					<span class="title_co">JRuby Co-Lead</span>
+					<span class="title_co">Engine Yard Inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Thomas Eebo</div>
-					<span class="title_co">***</span>
+					<span class="title_co">JRuby Co-Lead</span>
+					<span class="title_co">Engine Yard Inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Yoko Harada</div>
