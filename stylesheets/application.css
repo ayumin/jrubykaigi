@@ -248,7 +248,9 @@ a:hover { text-decoration:underline; }
 #			background:url(../images/location.png) 0 0 no-repeat;
 			height:25px;
 			margin:0 0 20px;
+			color: white;
 #			text-indent:-999em;
+			font-size: 2.0em;
 			width:160px;
 		}
 			#language img.floatLeft {
