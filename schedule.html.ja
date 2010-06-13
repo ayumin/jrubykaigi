@@ -35,16 +35,16 @@
 					<div class="event">
 						<span id="1">13:30 - 14:00 </span>
 						<h4>Keynote</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
+						<p>Soon...</p>
 							<div class="speaker"> 
 								<img src="images/photo_C.Nutter.jpg" alt="" height="80" width="80" class="floatLeft">
 								<h5>Charles Nutter</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<p>Soon...</p>
 							</div>
 							<div class="speaker"> 
 								<img src="images/photo_T.Enebo.jpg" alt="" height="80" width="80" class="floatLeft">
 								<h5>Thomas Eebo</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<p>Soon...</p>
 							</div>
 					</div>
 					<div class="event">
@@ -54,9 +54,7 @@
 RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どんな風に使えるのかの具体例や、どこで使うと便利なのかについて話します。</p>
 							<div class="speaker"> 
 								<img src="images/photo_Y.Harada.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Yoko
-								Harada
-								<a href="http://twitter.com/yokolet">@yokolet</a></h5>
+								<h5>Yoko Harada &gt;<a href="http://twitter.com/yokolet">@yokolet</a>&lt;</h5>
 								<p>元サーブレットおたく。今、JRubyとNokogiriプロジェクトのコミッタ。JRubyがおもしろくて、JavaからRubyを簡単に使えるようにするAPIを作ってみた。けっこうウケているらしい。Nokogiri gemのJava portも推進中。</p>
 							</div>
 					</div>
@@ -90,7 +88,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 						<p>Hadoopを使いたいけどJavaは絶対書きたくないすべての人に。Hadoop Papyrusを使ってあなたの悩みを解決しましょう！RubyベースのDSLで、並列分散処理(MapReduce)を意識せずに、大量ログ分析とかができるようになります。</p>
 							<div class="speaker">
 								<img src="images/photo_K.Fujikawa.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Koichi Fujikawa @fujibee</h5>
+								<h5>Koichi Fujikawa <a href="http://twitter.com/fujibee">@fujibee</a></h5>
 								<p>大規模データをJRubyと独自DSLで処理することができるHadoop Papyrusというオープンソースソフトウェアを開発しています。日本JRubyユーザ会をこの間立ち上げました。</p>
 							</div>
 					</div>
