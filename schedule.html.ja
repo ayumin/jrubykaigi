@@ -33,17 +33,7 @@
 			<div class="box722" id="schedule_of_events">
 				<div class="mid">
 					<div class="event">
-						<span id="1">13:25 - 13:30</span>
-						<h4>Opening</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
-							<div class="speaker"> 
-								<img src="images/temp.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Koichiro OHBA</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
-							</div>
-					</div>
-					<div class="event">
-						<span id="2">13:30 - 14:00 </span>
+						<span id="1">13:30 - 14:00 </span>
 						<h4>Keynote</h4>
 						<p>ああああああああああああああああああああああああああああああああ</p>
 							<div class="speaker"> 
@@ -58,23 +48,26 @@
 							</div>
 					</div>
 					<div class="event">
-						<span id="3">14:00 - 14:30</span>
-						<h4>RedBridge</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
+						<span id="2">14:00 - 14:30</span>
+						<h4>RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</h4>
+						<p>JRubyって何がいいの？の疑問にお応えしつつ、JavaからRubyを簡単に使えるようにしたAPI,
+RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どんな風に使えるのかの具体例や、どこで使うと便利なのかについて話します。</p>
 							<div class="speaker"> 
 								<img src="images/photo_Y.Harada.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Yoko Harada @yokolet</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<h5>Yoko
+								Harada
+								<a href="http://twitter.com/yokolet">@yokolet</a></h5>
+								<p>元サーブレットおたく。今、JRubyとNokogiriプロジェクトのコミッタ。JRubyがおもしろくて、JavaからRubyを簡単に使えるようにするAPIを作ってみた。けっこうウケているらしい。Nokogiri gemのJava portも推進中。</p>
 							</div>
 					</div>
 					<div class="event">
-						<span id="4">14:30 - 15:0</span>
-						<h4>JRuby for GAE/j</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
+						<span id="3">14:30 - 15:0</span>
+						<h4>Rubyistのための今日から始めたくなるGoogleAppEngine</h4>
+						<p>開発環境の作り方、AppEngineの特徴、できること/できないこと、向くこと/向かないことなど、RubyでWebアプリ開発をしている普通のRubyistがGoogleAppEngine/JRuby向けの開発を始めるために知っておくべき１３個(ぐらい)の重要ポイントを一挙公開。</p>
 							<div class="speaker">
 								<img src="images/photo_T.Sasaki.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Takeru SASAKI @urekat</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<h5>Takeru SASAKI <a href="http://twitter.com/urekat">@urekat</a></h5>
+								<p>appengine-jrubyのコミッターです。Rails2のrubygems依存を回避する鬼パッチとDeferredDispatcherを作りました。動作確認をしてバグを見つけたらJavaの世界まで深追いしてパッチを作ったりしています。</p>
 							</div>
 					</div>
 					<div class="event">
@@ -82,33 +75,33 @@
 						<h4>break</h4>
 					</div>
 					<div class="event">
-						<span id="5">15:30 - 15:50</span>
+						<span id="4">15:30 - 15:50</span>
 						<h4>JRuby on Rails</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
+						<p>Soon...</p>
 							<div class="speaker">
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5> Hirotsugu ASARI @hiro_asari</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<h5> Hirotsugu ASARI <a href="http://twitter.com/hiro_asari">@hiro_asari</a></h5>
+								<p>soon</p>
 							</div>
 					</div>
 					<div class="event">
-						<span id="6">15:50 - 16:10</span>
-						<h4>Hadoop Papyrus</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
+						<span id="5">15:50 - 16:10</span>
+						<h4>JRubyとDSLでMapReduce ~ Hadoop Papyrus</h4>
+						<p>Hadoopを使いたいけどJavaは絶対書きたくないすべての人に。Hadoop Papyrusを使ってあなたの悩みを解決しましょう！RubyベースのDSLで、並列分散処理(MapReduce)を意識せずに、大量ログ分析とかができるようになります。</p>
 							<div class="speaker">
 								<img src="images/photo_K.Fujikawa.jpg" alt="" height="80" width="80" class="floatLeft">
 								<h5>Koichi Fujikawa @fujibee</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<p>大規模データをJRubyと独自DSLで処理することができるHadoop Papyrusというオープンソースソフトウェアを開発しています。日本JRubyユーザ会をこの間立ち上げました。</p>
 							</div>
 					</div>
 					<div class="event">
-						<span id="7">16:10-16:30</span>
-						<h4>TBD</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
+						<span id="6">16:10-16:30</span>
+						<h4>JRubyソースコード解説</h4>
+						<p>目的: JRubyソースコードのどこに何があるかを示し、それらがいつどのように協調して振る舞うかをお見せし、最後に実例を使ってJRubyのハックおよびトラブルシュートを行います。</p>
 							<div class="speaker">
 								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Hiroshi NAKAMURA @nahi</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<h5>Hiroshi NAKAMURA <a href="http://twitter.com/nahi">@nahi</a></h5>
+								<p>開発者。セキュリティーとネットワーク中心。jruby-opensslとCRubyコミッタ、httpclient、soap4r、openpgp4u、logger、debug.rb、m.ctor.org。</p>
 							</div>
 					</div>
 					<div class="event">
@@ -117,14 +110,16 @@
 					</div>
 					
 					<div class="event last_item">
-						<span id="8">17:00-18:00</span>
+						<span id="7">17:00-18:00</span>
 						<h4>Lightning Talks</h4>
-						<p>ああああああああああああああああああああああああああああああああ</p>
+						<p>Soon...</p>
+<!--
 							<div class="speaker">
 								<img src="images/temp.jpg" alt="" height="80" width="80" class="floatLeft">
 								<h5>aaaaaa</h5>
 								<p>ああああああああああああああああああああああああああああああああ</p>
 							</div>
+-->
 					</div>
 					
 				</div>
@@ -137,36 +132,34 @@
 			<h3>Presented by</h3>
 			<ul>
 				<li>
-					<div class="speaker_name">Koichiro OHBA</div>
-					<span class="title_co">***</span>
-				</li>
-				<li>
 					<div class="speaker_name">Charles Nutter</div>
-					<span class="title_co">***</span>
+					<span class="title_co">JRuby Co-Lead</span>
+					<span class="title_co">Engine Yard Inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Thomas Eebo</div>
-					<span class="title_co">***</span>
+					<span class="title_co">JRuby Co-Lead</span>
+					<span class="title_co">Engine Yard Inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Yoko Harada</div>
-					<span class="title_co">***</span>
+					<span class="title_co">Self-employed, part-time student</span>
 				</li>
 				<li>
 					<div class="speaker_name">Takeru SASAKI</div>
-					<span class="title_co">***</span>
+					<span class="title_co">Colt inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Hirotsugu ASARI </div>
-					<span class="title_co">***</span>
+					<span class="title_co">Engine Yard Inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Koichi Fujikawa</div>
-					<span class="title_co">***</span>
+					<span class="title_co">Cirius Technologies, Inc.</span>
 				</li>
 				<li>
 					<div class="speaker_name">Hiroshi NAKAMURA</div>
-					<span class="title_co">***</span>
+					<span class="title_co">Sarion Systems Research</span>
 				</li>
 			</ul>
 			<a href="schedule.html.ja">More Information...</a>
