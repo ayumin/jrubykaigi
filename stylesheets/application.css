@@ -245,7 +245,7 @@ a:hover { text-decoration:underline; }
 		width:304px;
 	}
 		#language h3 {
-			background:url(../images/location.png) 0 0 no-repeat;
+#			background:url(../images/location.png) 0 0 no-repeat;
 			height:25px;
 			margin:0 0 20px;
 			text-indent:-999em;
@@ -258,7 +258,6 @@ a:hover { text-decoration:underline; }
 				color:#fff;
 				font: 1.1em/1.2em Helvetica, Arial;
 				margin:0 0 12px;
-				text-transform:uppercase;
 			}
 			#language p a {
 				color:#ccc;
