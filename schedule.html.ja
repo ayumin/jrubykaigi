@@ -54,7 +54,7 @@
 RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どんな風に使えるのかの具体例や、どこで使うと便利なのかについて話します。</p>
 							<div class="speaker"> 
 								<img src="images/photo_Y.Harada.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Yoko Harada &gt;<a href="http://twitter.com/yokolet">@yokolet</a>&lt;</h5>
+								<h5>Yoko Harada &lt;<a href="http://twitter.com/yokolet">@yokolet</a>&gt;</h5>
 								<p>元サーブレットおたく。今、JRubyとNokogiriプロジェクトのコミッタ。JRubyがおもしろくて、JavaからRubyを簡単に使えるようにするAPIを作ってみた。けっこうウケているらしい。Nokogiri gemのJava portも推進中。</p>
 							</div>
 					</div>
@@ -64,7 +64,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 						<p>開発環境の作り方、AppEngineの特徴、できること/できないこと、向くこと/向かないことなど、RubyでWebアプリ開発をしている普通のRubyistがGoogleAppEngine/JRuby向けの開発を始めるために知っておくべき１３個(ぐらい)の重要ポイントを一挙公開。</p>
 							<div class="speaker">
 								<img src="images/photo_T.Sasaki.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Takeru SASAKI <a href="http://twitter.com/urekat">@urekat</a></h5>
+								<h5>Takeru SASAKI &lt;<a href="http://twitter.com/urekat">@urekat</a>&gt;</h5>
 								<p>appengine-jrubyのコミッターです。Rails2のrubygems依存を回避する鬼パッチとDeferredDispatcherを作りました。動作確認をしてバグを見つけたらJavaの世界まで深追いしてパッチを作ったりしています。</p>
 							</div>
 					</div>
@@ -78,7 +78,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 						<p>Soon...</p>
 							<div class="speaker">
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5> Hirotsugu ASARI <a href="http://twitter.com/hiro_asari">@hiro_asari</a></h5>
+								<h5> Hirotsugu ASARI &lt;<a href="http://twitter.com/hiro_asari">@hiro_asari</a>&gt;</h5>
 								<p>soon</p>
 							</div>
 					</div>
@@ -88,7 +88,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 						<p>Hadoopを使いたいけどJavaは絶対書きたくないすべての人に。Hadoop Papyrusを使ってあなたの悩みを解決しましょう！RubyベースのDSLで、並列分散処理(MapReduce)を意識せずに、大量ログ分析とかができるようになります。</p>
 							<div class="speaker">
 								<img src="images/photo_K.Fujikawa.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Koichi Fujikawa <a href="http://twitter.com/fujibee">@fujibee</a></h5>
+								<h5>Koichi Fujikawa &lt;<a href="http://twitter.com/fujibee">@fujibee</a>&gt;</h5>
 								<p>大規模データをJRubyと独自DSLで処理することができるHadoop Papyrusというオープンソースソフトウェアを開発しています。日本JRubyユーザ会をこの間立ち上げました。</p>
 							</div>
 					</div>
@@ -98,7 +98,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 						<p>目的: JRubyソースコードのどこに何があるかを示し、それらがいつどのように協調して振る舞うかをお見せし、最後に実例を使ってJRubyのハックおよびトラブルシュートを行います。</p>
 							<div class="speaker">
 								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>Hiroshi NAKAMURA <a href="http://twitter.com/nahi">@nahi</a></h5>
+								<h5>Hiroshi NAKAMURA &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5>
 								<p>開発者。セキュリティーとネットワーク中心。jruby-opensslとCRubyコミッタ、httpclient、soap4r、openpgp4u、logger、debug.rb、m.ctor.org。</p>
 							</div>
 					</div>
