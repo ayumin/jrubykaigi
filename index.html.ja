@@ -91,7 +91,7 @@
 			
 			<div class="box305" id="language"> 
 				<div class="mid"> 
-				<p>Language:[<a href="index.html.en">en</a>][ja]</p> 
+				<p><span style="color: #FFFFFF">Language:</span>[<a href="index.html.en">en</a>][ja]</p> 
 				</div> 
 				<div class="bot"></div> 
 			</div> 
