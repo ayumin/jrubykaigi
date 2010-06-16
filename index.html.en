@@ -36,7 +36,9 @@
 					<h3>News</h3> 
 					<dl> 
 					<dt>06/19</dt> 
-					<dd>JRubyKaigi2010サイトオープン</dd> 
+					<dd>Hashtag: #jrubykaigi</dd> 
+					<dt>06/19</dt> 
+					<dd>JRubyKaigi2010 website open!</dd> 
 					</dl> 
 				</div> 
 				<div class="bot"></div> 
@@ -51,11 +53,11 @@
 					  </tr> 
 						<tr> 
 							<td class="time">14:00 - 14:30</td> 
-							<td class="event"><a href="schedule.html.en#2">RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</a></td> 
+							<td class="event"><a href="schedule.html.en#2">Want to use Ruby from Java? RedBridge makes it pretty easy!</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">14:30 - 15:00</td> 
-							<td class="event"><a href="schedule.html.en#3">Rubyistのための今日から始めたくなるGoogleAppEngine</a></td> 
+							<td class="event"><a href="schedule.html.en#3">Rubyist, it's time to develop your Rails app on Google App Engine.</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">15:00 - 15:30</td> 
@@ -67,7 +69,7 @@
 						</tr> 
 						<tr> 
 							<td class="time">15:50 - 16:10</td> 
-							<td class="event"><a href="schedule.html.en#5">RubyとDSLでMapReduce ~ Hadoop</a></td> 
+							<td class="event"><a href="schedule.html.en#5">MapReduce by JRuby and DSL ~ Hadoop Papy</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">16:10 - 16:30</td> 
@@ -110,8 +112,8 @@
 				<h3>Location</h3> 
 				<div id="nextEventInfo"> 
 					<a href="http://www.epochal.or.jp/" target="_blank"><img src="images/photo_location.jpg" alt="" height="92" width="115" class="floatLeft"></a> 
-					<p><a href="http://www.epochal.or.jp/" target="_blank">つくば国際会議場<br>Tsukuba International Congress Center</a></p> 
-					<p>茨城県つくば市<br/>竹園2-20-3<br/>Tel: 029-861-0001</p> 
+					<p><a href="http://www.epochal.or.jp/" target="_blank">Tsukuba International Congress Center</a></p> 
+					<p>Tsukuba-shi,Ibaraki Pref<br/>Takeoka 2-20-3<br/>Tel:  +81-29-861-0001</p> 
 				</div> 
 				</div> 
 				<div class="bot"></div> 

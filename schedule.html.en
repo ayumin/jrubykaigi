@@ -38,34 +38,33 @@
 						<p>Soon...</p> 
 							<div class="speaker"> 
 								<img src="images/photo_C.Nutter.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Charles Nutter</h5> 
+								<h5>Charles Nutter &lt;<a href="http://twitter.com/headius">@headius</a>&gt;</h5> 
 								<p>Soon...</p> 
 							</div> 
 							<div class="speaker"> 
 								<img src="images/photo_T.Enebo.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Thomas Eebo</h5> 
+								<h5>Thomas Eebo &lt;<a href="http://twitter.com/tom_enebo">@tom_enebo</a>&gt;</h5> 
 								<p>Soon...</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
 						<span id="2">14:00 - 14:30</span> 
-						<h4>RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</h4> 
-						<p>JRubyって何がいいの？の疑問にお応えしつつ、JavaからRubyを簡単に使えるようにしたAPI,
-RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どんな風に使えるのかの具体例や、どこで使うと便利なのかについて話します。</p> 
+						<h4>Want to use Ruby from Java? RedBridge makes it pretty easy!</h4> 
+						<p>From introduction of JRuby to howtos of RedBridge. You’ll get better understandings of JRuby, which leads you effectively to RedBrdige API.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_Y.Harada.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Yoko Harada &lt;<a href="http://twitter.com/yokolet">@yokolet</a>&gt;</h5> 
-								<p>元サーブレットおたく。今、JRubyとNokogiriプロジェクトのコミッタ。JRubyがおもしろくて、JavaからRubyを簡単に使えるようにするAPIを作ってみた。けっこうウケているらしい。Nokogiri gemのJava portも推進中。</p> 
+								<p>I'm a JRuby lover, a committer of JRuby and Nokogiri projects. I like to code in both Ruby and Java, so, I wrote RedBrdige to connect them.</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
 						<span id="3">14:30 - 15:0</span> 
-						<h4>Rubyistのための今日から始めたくなるGoogleAppEngine</h4> 
-						<p>開発環境の作り方、AppEngineの特徴、できること/できないこと、向くこと/向かないことなど、RubyでWebアプリ開発をしている普通のRubyistがGoogleAppEngine/JRuby向けの開発を始めるために知っておくべき１３個(ぐらい)の重要ポイントを一挙公開。</p> 
+						<h4>Rubyist, it's time to develop your Rails app on Google App Engine.</h4> 
+						<p>How to install SDK, many AppEngine's features, etc..  I will tell you "13 secrets of GAE" for Rubyists.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_T.Sasaki.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Takeru SASAKI &lt;<a href="http://twitter.com/urekat">@urekat</a>&gt;</h5> 
-								<p>appengine-jrubyのコミッターです。Rails2のrubygems依存を回避する鬼パッチとDeferredDispatcherを作りました。動作確認をしてバグを見つけたらJavaの世界まで深追いしてパッチを作ったりしています。</p> 
+								<p>A committer of appengine-jruby@googlecode. Original author of "the patch enables Rails2 work on GAE" and "DeferredDispatcher".</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
@@ -84,22 +83,24 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 					</div> 
 					<div class="event"> 
 						<span id="5">15:50 - 16:10</span> 
-						<h4>JRubyとDSLでMapReduce ~ Hadoop Papyrus</h4> 
-						<p>Hadoopを使いたいけどJavaは絶対書きたくないすべての人に。Hadoop Papyrusを使ってあなたの悩みを解決しましょう！RubyベースのDSLで、並列分散処理(MapReduce)を意識せずに、大量ログ分析とかができるようになります。</p> 
+						<h4>MapReduce by JRuby and DSL ~ Hadoop Papyrus</h4> 
+						<p>For all who want to use Hadoop but never to write Java.<br />
+Hadoop Papyrus can make you happy! <br />
+You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_K.Fujikawa.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Koichi Fujikawa &lt;<a href="http://twitter.com/fujibee">@fujibee</a>&gt;</h5> 
-								<p>大規模データをJRubyと独自DSLで処理することができるHadoop Papyrusというオープンソースソフトウェアを開発しています。日本JRubyユーザ会をこの間立ち上げました。</p> 
+								<p>Creator of Hadoop Papyrus, which enables you to the massive data handle by using JRuby and original DSL.  Founder of Japan JRuby user group.</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
 						<span id="6">16:10-16:30</span> 
-						<h4>JRubyソースコード解説</h4> 
-						<p>目的: JRubyソースコードのどこに何があるかを示し、それらがいつどのように協調して振る舞うかをお見せし、最後に実例を使ってJRubyのハックおよびトラブルシュートを行います。</p> 
+						<h4>JRuby Hacking Guide</h4> 
+						<p>Aims; extracting what is where in JRuby source code, showing how those interacts when, and hacking/troubleshooting it by examples in 20 min.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Hiroshi NAKAMURA &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5> 
-								<p>開発者。セキュリティーとネットワーク中心。jruby-opensslとCRubyコミッタ、httpclient、soap4r、openpgp4u、logger、debug.rb、m.ctor.org。</p> 
+								<h5>Hiroshi NAKAMURA a.k.a. NaHi &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5> 
+								<p>Developer, focusing on security and network. jruby-openssl and CRuby committer, httpclient, soap4r, openpgp4u, logger, debug.rb, m.ctor.org.</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
@@ -115,7 +116,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 							<div class="speaker">
 								<img src="images/temp.jpg" alt="" height="80" width="80" class="floatLeft">
 								<h5>aaaaaa</h5>
-								<p>ああああああああああああああああああああああああああああああああ</p>
+								<p>aaaaaa</p>
 							</div>
 --> 
 					</div> 
