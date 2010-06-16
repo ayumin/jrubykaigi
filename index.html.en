@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
-<html lang="ja"> 
+<html lang="en"> 
 <head> 
 <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
 <meta http-equiv="content-style-type" content="text/css"> 
@@ -12,14 +12,14 @@
 <div id="wrapper">	
 	<div id="container"> 
 		<div class="header"> 
-			<h1><a href="index.html.ja" title="JRubyKaigi2010"><img src="images/jrubyconf-sf.png" alt="JRubyKaigi2010" width="894" height="163"></a></h1> 
+			<h1><a href="index.html.en" title="JRubyKaigi2010"><img src="images/jrubyconf-sf.png" alt="JRubyKaigi2010" width="894" height="163"></a></h1> 
 		</div><!--/End Header --> 
 		
 		<div class="nav" id="primary"> 
 			<ul> 
-				<li class="selected" id="nav_overview_ja"><a href="index.html.ja">開催概要</a></li> 
-				<li id="nav_schedule_ja"><a href="schedule.html.ja">スケジュール</a></li> 
-				<li class="last"  id="nav_sponsors_ja"><a href="sponsors.html.ja">スポンサー</a></li> 
+				<li class="selected" id="nav_overview_en"><a href="index.html.en">overview</a></li> 
+				<li id="nav_schedule_en"><a href="schedule.html.en">schedule</a></li> 
+				<li class="last"  id="nav_sponsors_en"><a href="sponsors.html.en">sponsors</a></li> 
 			</ul> 
 		</div> 
 		
@@ -47,15 +47,15 @@
 					<table> 
 						<tr> 
 							<td class="time">13:30 - 14:00</td> 
-							<td class="event"><a href="schedule.html.ja#1">Keynote</a></td> 
+							<td class="event"><a href="schedule.html.en#1">Keynote</a></td> 
 					  </tr> 
 						<tr> 
 							<td class="time">14:00 - 14:30</td> 
-							<td class="event"><a href="schedule.html.ja#2">RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</a></td> 
+							<td class="event"><a href="schedule.html.en#2">RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">14:30 - 15:00</td> 
-							<td class="event"><a href="schedule.html.ja#3">Rubyistのための今日から始めたくなるGoogleAppEngine</a></td> 
+							<td class="event"><a href="schedule.html.en#3">Rubyistのための今日から始めたくなるGoogleAppEngine</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">15:00 - 15:30</td> 
@@ -63,15 +63,15 @@
 						</tr> 
 						<tr> 
 							<td class="time">15:30 - 15:50</td> 
-							<td class="event"><a href="schedule.html.ja#4">JRuby on Rails</a></td> 
+							<td class="event"><a href="schedule.html.en#4">JRuby on Rails</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">15:50 - 16:10</td> 
-							<td class="event"><a href="schedule.html.ja#5">RubyとDSLでMapReduce ~ Hadoop</a></td> 
+							<td class="event"><a href="schedule.html.en#5">RubyとDSLでMapReduce ~ Hadoop</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">16:10 - 16:30</td> 
-							<td class="event"><a href="schedule.html.ja#6">JRuby Hacking Guide</a></td> 
+							<td class="event"><a href="schedule.html.en#6">JRuby Hacking Guide</a></td> 
 						</tr> 
 						<tr> 
 							<td class="time">16:30 - 17:00</td> 
@@ -79,7 +79,7 @@
 						</tr> 
 						<tr> 
 							<td class="time">17:00 - 18:00</td> 
-							<td class="event"><a href="schedule.html.ja#7">Lightning Talks</a></td> 
+							<td class="event"><a href="schedule.html.en#7">Lightning Talks</a></td> 
 						</tr> 
 					</table> 
 				</div> 
@@ -89,7 +89,7 @@
 			
 			<div class="box305" id="language"> 
 				<div class="mid"> 
-				<p>Language:[<a href="index.html.en">en</a>][ja]</p> 
+				<p>Language:[en][<a href="index.html.ja">ja</a>]</p> 
 				</div> 
 				<div class="bot"></div> 
 			</div> 
@@ -153,7 +153,7 @@
 					<span class="title_co">Sarion Systems Research</span> 
 				</li> 
 			</ul> 
-			<a href="schedule.html.ja">More Information...</a> 
+			<a href="schedule.html.en">More Information...</a> 
 		</div> 
 		<div class="cB"></div> 
  

@@ -48,7 +48,7 @@ a:hover { text-decoration:underline; }
 	margin:0 0 0 15px;
 }
 	#primary.nav ul {
-		background:url(../images/menu_off.gif) 0 0 no-repeat;
+		background:url(../images/menu_off.png) 0 0 no-repeat;
 		height:33px;
 	}
 	#primary.nav li {
@@ -84,13 +84,21 @@ a:hover { text-decoration:underline; }
 		position:static !important;
 	}
 	
-	li#nav_overview a { background:url(../images/menu_off.gif) 0 0 no-repeat; }
-	li#nav_schedule a { background:url(../images/menu_off.gif) -240px 0 no-repeat; }
-	li#nav_sponsors a { background:url(../images/menu_off.gif) -480px 0 no-repeat; }
+	li#nav_overview_ja a { background:url(../images/menu_off_ja.png) 0 0 no-repeat; }
+	li#nav_schedule_ja a { background:url(../images/menu_off_ja.png) -240px 0 no-repeat; }
+	li#nav_sponsors_ja a { background:url(../images/menu_off_ja.png) -480px 0 no-repeat; }
 	
-	li#nav_overview a:hover, li#nav_overview.selected a { background:url(../images/menu_on.gif) 0 0 no-repeat; }
-	li#nav_schedule a:hover, li#nav_schedule.selected a { background:url(../images/menu_on.gif) -240px 0 no-repeat; }
-	li#nav_sponsors a:hover, li#nav_sponsors.selected a { background:url(../images/menu_on.gif) -480px 0 no-repeat; }
+	li#nav_overview_ja a:hover, li#nav_overview_ja.selected a { background:url(../images/menu_on_ja.png) 0 0 no-repeat; }
+	li#nav_schedule_ja a:hover, li#nav_schedule_ja.selected a { background:url(../images/menu_on_ja.png) -240px 0 no-repeat; }
+	li#nav_sponsors_ja a:hover, li#nav_sponsors_ja.selected a { background:url(../images/menu_on_ja.png) -480px 0 no-repeat; }
+
+	li#nav_overview_en a { background:url(../images/menu_off_en.png) 0 0 no-repeat; }
+	li#nav_schedule_en a { background:url(../images/menu_off_en.png) -240px 0 no-repeat; }
+	li#nav_sponsors_en a { background:url(../images/menu_off_en.png) -480px 0 no-repeat; }
+	
+	li#nav_overview_en a:hover, li#nav_overview_en.selected a { background:url(../images/menu_on_en.png) 0 0 no-repeat; }
+	li#nav_schedule_en a:hover, li#nav_schedule_en.selected a { background:url(../images/menu_on_en.png) -240px 0 no-repeat; }
+	li#nav_sponsors_en a:hover, li#nav_sponsors_en.selected a { background:url(../images/menu_on_en.png) -480px 0 no-repeat; }
 	
 	* html #primary.nav li { font-size:1.6em; }
 	* html #primary.nav li a { display:inline-block; }
@@ -111,36 +119,26 @@ a:hover { text-decoration:underline; }
     color: #fff;
   }
 	#overview h2.pageTitle {
-		background:url(../images/join-us-after-rubyconf.png) 0 0 no-repeat;
-		height:34px;
-		margin:0 0 8px;
+		background:url(../images/event-overview.png) 0 0 no-repeat;
+		height:36px;
+		margin:10px 0;
 		text-indent:-999em;
-		width: 670px;
 	}
 	#event_schedule h2.pageTitle {
 		background:url(../images/event-schedule.png) 0 0 no-repeat;
-		height:34px;
-		margin:0 0 8px;
+		height:36px;
+		margin:10px 0;
 		text-indent:-999em;
-		width: 390px;
-	}
-	#event_location h2.pageTitle {
-		background:url(../images/event-location.png) 0 0 no-repeat;
-		height:34px;
-		margin:0 0 8px;
-		text-indent:-999em;
-		width: 213px;
 	}
 	#event_sponsors h2.pageTitle {
 		background:url(../images/event-sponsors.png) 0 0 no-repeat;
-		height:34px;
-		margin:0 0 8px;
+		height:36px;
+		margin:10px 0;
 		text-indent:-999em;
-		width: 237px;
 	}
 	#content p.register_now {
 		float:right;
-		padding:15px 0 0;
+		padding:5px;
 	}
 	#content p.intro {
 		color:#fff;
@@ -154,7 +152,7 @@ a:hover { text-decoration:underline; }
 	background:url(../images/ribbon2.png) 0 0 no-repeat;
 	display:inline;
 	float:right;
-	height:1500px;
+	height:976px;
 	padding:0 0 0;
 	position:relative;
 	text-align:center;
@@ -170,17 +168,12 @@ a:hover { text-decoration:underline; }
 		height:976px;
 	}
 	.aside h3 {
-		background:url(../images/presented-by.png) 0 0 no-repeat;
-		height:13px;
+		background:url(../images/speakers-2.png) 0 0 no-repeat;
+		height:17px;
+		width:120px;
 		margin:34px auto 0;
 		text-indent:-999em;
-		width:128px;
 	}
-	.aside h3 {
-			background:url(../images/speakers-2.png) 0 0 no-repeat;
-			height:17px;
-			width:120px;
-		}
 	.aside ul {
 		margin:30px auto 0;
 		width:104px;
@@ -240,33 +233,17 @@ a:hover { text-decoration:underline; }
 				text-decoration:none;
 			}
 		
+	/* Home Page - Speakers */
 	#language {
-		clear:left;
+		display:inline;
+		float:left;
+		margin:0 0 22px;
 		width:304px;
 	}
-		#language h3 {
-#			background:url(../images/location.png) 0 0 no-repeat;
-			height:25px;
-			margin:0 0 20px;
-			color: white;
-#			text-indent:-999em;
-			font-size: 2.0em;
-			width:160px;
+		#language p {
+			font: 2em/2.2em Helvetica, Arial;
+			letter-spacing:1px;
 		}
-			#language img.floatLeft {
-				margin:0 7px 0 0;
-			}
-			#language p {
-				color:#fff;
-				font: 1.1em/1.2em Helvetica, Arial;
-				margin:0 0 12px;
-			}
-			#language p a {
-				color:#ccc;
-				text-decoration:none;
-			}
-
-	/* Home Page - Speakers */
 	#speakers {
 		display:inline;
 		float:left;
@@ -299,9 +276,9 @@ a:hover { text-decoration:underline; }
 		p#more_speakers { font-size:1.4em; }
 		
 	/* Schedule - Event Schedule */
-	#aaa{
+	#wrap {
 		float:right;
-}
+	}
 	#news, #schedule {
 		width:404px;
 	}
@@ -322,7 +299,7 @@ a:hover { text-decoration:underline; }
 		#news dl {
 			color:#d9d9d9;
 			font: 1.5em/1.1em 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, Arial;
-			padding: 10px;
+			padding: 0 10px 10px 10px;
 		}
 		#news dt {
 			float: left;
@@ -331,6 +308,7 @@ a:hover { text-decoration:underline; }
 		}
 		#news dd {
 			padding: 10px;
+			font-size:1.15em;
 		}
 		#news, #schedule > p {
 			margin-bottom: 20px;
@@ -344,7 +322,7 @@ a:hover { text-decoration:underline; }
 		#schedule td {
 			border-top: 1px solid #525252;
 			height: 20px;
-			padding: 10px 0 7px 14px;
+			padding: 10px;
 			/*vertical-align: middle;*/
 		}
 		td.time { width:110px; }
@@ -352,20 +330,20 @@ a:hover { text-decoration:underline; }
 			border-bottom:0;
 			font-size:1.15em;
 		}
-			td.event strong {
+		td.event strong {
 				color:#fff;
 				font-weight:bold;
 			}
-		td.eventDescription { font-size:0.75em; }
 
 
 #schedule_of_events .mid, #the_speakers .mid, #the_sponsors .mid { padding:0; }
+
 .sponsor {
 	padding:20px 28px 28px 36px;
 }
 .event {
 	border-bottom:1px solid #525252;
-	padding:20px 28px 10px 36px;
+	padding:20px 28px 20px 36px;
 	clear:both;
 }
 	.event h4 {
@@ -393,17 +371,11 @@ a:hover { text-decoration:underline; }
 	.speaker {
 		border-left:3px solid #525252;
 		margin:10px 0;
-		padding:15px 20px 15px 20px;
+		padding:10px 0 3px 15px;
 	}
 	.speaker img.floatLeft {
-		margin:0 18px 0 0;
+		margin:0 15px 0 0;
 	}
-	.speaker p {
-		padding-left: 0px;
-	}
-	.speaker h5 {
-	}
-
 	
 #location_info .mid { padding:1px 40px 32px 0; }
 	#location_info address {
@@ -423,7 +395,6 @@ a:hover { text-decoration:underline; }
 	#location_info p {
 		color:#fff;
 	}
-
 	.sponsor h3.sponsor_name {
 		color:#fff;
 		font:bold 1.7em Helvetica, Arial;
