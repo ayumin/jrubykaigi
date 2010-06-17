@@ -58,7 +58,7 @@
 							</div> 
 					</div> 
 					<div class="event"> 
-						<span id="3">14:30 - 15:0</span> 
+						<span id="3">14:30 - 15:00</span> 
 						<h4>Rubyist, it's time to develop your Rails app on Google App Engine.</h4> 
 						<p>How to install SDK, many AppEngine's features, etc..  I will tell you "13 secrets of GAE" for Rubyists.</p> 
 							<div class="speaker"> 

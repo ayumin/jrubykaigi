@@ -59,7 +59,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 							</div> 
 					</div> 
 					<div class="event"> 
-						<span id="3">14:30 - 15:0</span> 
+						<span id="3">14:30 - 15:00</span> 
 						<h4>はじめよう GoogleAppEngine/JRuby on Rails</h4> 
 						<p>開発環境の作り方、AppEngineの特徴、できること/できないこと、向くこと/向かないことなど、RubyでWebアプリ開発をしている普通のRubyistがGoogleAppEngine/JRuby向けの開発を始めるために知っておくべき１３個(ぐらい)の重要ポイントを一挙公開。</p> 
 							<div class="speaker"> 
