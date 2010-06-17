@@ -98,8 +98,8 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 						<p>目的: JRubyソースコードのどこに何があるかを示し、それらがいつどのように協調して振る舞うかをお見せし、最後に実例を使ってJRubyのハックおよびトラブルシュートを行います。</p> 
 							<div class="speaker"> 
 								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Hiroshi NAKAMURA a.k.a. NaHi &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5> 
-								<p>開発者。セキュリティーとネットワーク中心。jruby-opensslとCRubyコミッタ、httpclient、soap4r、openpgp4u、logger、debug.rb、m.ctor.org。</p> 
+                                                                <h5><a href="http://www.google.com/profiles/nakahiro">Hiroshi NAKAMURA</a> a.k.a. NaHi &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5> 
+                                                                <p>開発者。セキュリティーとネットワーク中心。<a href="http://github.com/jruby/jruby-ossl">jruby-openssl</a>と<a href="http://www.ruby-lang.org">CRuby</a>コミッタ、<a href="http://github.com/nahi/httpclient">httpclient</a>、<a href="http://dev.ctor.org/soap4r">soap4r</a>、<a href="http://dev.ctor.org/openpgp4u">openpgp4u</a>、logger、debug.rb、<a href="http://m.ctor.org/f2p/">m.ctor.org</a>。</p> 
 							</div> 
 					</div> 
 					<div class="event"> 

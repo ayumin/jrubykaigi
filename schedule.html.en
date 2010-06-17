@@ -99,8 +99,8 @@ You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p>
 						<p>Aims; extracting what is where in JRuby source code, showing how those interacts when, and hacking/troubleshooting it by examples in 20 min.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Hiroshi NAKAMURA a.k.a. NaHi &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5> 
-								<p>Developer, focusing on security and network. jruby-openssl and CRuby committer, httpclient, soap4r, openpgp4u, logger, debug.rb, m.ctor.org.</p> 
+                                                                <h5><a href="http://www.google.com/profiles/nakahiro">Hiroshi NAKAMURA</a> a.k.a. NaHi &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5> 
+                                                                <p>Developer, focusing on security and network. <a href="http://github.com/jruby/jruby-ossl">jruby-openssl</a> and <a href="http://www.ruby-lang.org">CRuby</a> committer, <a href="http://github.com/nahi/httpclient">httpclient</a>, <a href="http://dev.ctor.org/soap4r">soap4r</a>, <a href="http://dev.ctor.org/openpgp4u">openpgp4u</a>, logger, debug.rb, <a href="http://m.ctor.org/f2p/">m.ctor.org</a>.</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
