@@ -26,7 +26,7 @@
 		<div class="section" id="content">
 			<div id="preamble">
 				<h2 class="pageTitle">Sponsors</h2>
-				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Register Now" target="_target"><img src="images/btn-register-now.png" alt="Register Now" height="43" width="187"></a></p>
+				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Support us" target="_target"><img src="images/btn-support-us.png" alt="Support us" height="43" width="187"></a></p>
 				<p class="intro">ああああああああああああああああああああああああああああああああ</p>
 			</div>
 			
@@ -42,6 +42,36 @@
 				</div>
 				<div class="bot"></div>
 			</div>
+
+			<div class="box722" id="the_individual_sponsor">
+				<div class="mid">
+				  <h2>Individual Sponsors</h2>
+					<div class="sponsor">
+					  <p>
+					    <a href="http://twitter.com/ayumin">Ayumu Aizawa</a><br>
+					    <a href="http://twitter.com/fujibee">Koichi Fujikawa</a><br>
+					    <a href="http://twitter.com/nahi">Hiroshi Nakamura</a><br>
+					    <a href="http://twitter.com/hassie">Yoshiharu Hashimoto</a><br>
+					    <a href="http://twitter.com/koichiroo">Koichiro Ohba</a><br>
+					  </p>
+					</div>
+				</div>
+				<div class="bot"></div>
+			</div>
+
+			<div class="box722" id="the_spectial_thanks">
+				<div class="mid">
+				  <h2>Special Thanks To</h2>
+					<div class="sponsor">
+						<a class="floatLeft" href="http://tmix.jp/" title="tmix"><img src="images/tmix.png" alt="tmix"></a>
+						<h3 class="sponsor_name">Spice life, inc.</h3>
+						<p class="service_product">tmix</p>
+						<p>tmix lets you create your own shirts online and then share your designs to other users. It’s also possible to "remix" existing designs with a set of painting tools.</p>
+					</div>
+				</div>
+				<div class="bot"></div>
+			</div>
+
 				
 		</div><!--/End Content Section -->
 		

@@ -336,7 +336,7 @@ a:hover { text-decoration:underline; }
 			}
 
 
-#schedule_of_events .mid, #the_speakers .mid, #the_sponsors .mid { padding:0; }
+#schedule_of_events .mid, #the_speakers .mid, #the_sponsors .mid, #the_special_thanks .mid, #the_individual_sponsor .mid { padding:0; }
 
 .sponsor {
 	padding:20px 28px 28px 36px;
@@ -417,6 +417,7 @@ a:hover { text-decoration:underline; }
 	text-align:center;
 	width:136px;
 }	
+
 	
 /* == General Classes
 --------------------------------------*/
