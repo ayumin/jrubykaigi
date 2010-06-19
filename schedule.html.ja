@@ -34,7 +34,7 @@
 				<div class="mid"> 
 					<div class="event"> 
 						<span id="1">13:30 - 14:00 </span> 
-						<h4>Keynote</h4> 
+						<h4><img src="./images/usa.gif" alt="en"> Keynote - JRuby: Pony Show</h4> 
 						<p>Soon...</p> 
 							<div class="speaker"> 
 								<img src="images/photo_C.Nutter.jpg" alt="" height="80" width="80" class="floatLeft"> 
@@ -49,7 +49,7 @@
 					</div> 
 					<div class="event"> 
 						<span id="2">14:00 - 14:30</span> 
-						<h4>RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> RedBridgeで簡単プログラミング。JavaからRubyを使っちゃえ！</h4> 
 						<p>JRubyって何がいいの？の疑問にお応えしつつ、JavaからRubyを簡単に使えるようにしたAPI,
 RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どんな風に使えるのかの具体例や、どこで使うと便利なのかについて話します。</p> 
 							<div class="speaker"> 
@@ -60,7 +60,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 					</div> 
 					<div class="event"> 
 						<span id="3">14:30 - 15:00</span> 
-						<h4>はじめよう GoogleAppEngine/JRuby on Rails</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> はじめよう GoogleAppEngine/JRuby on Rails</h4> 
 						<p>開発環境の作り方、AppEngineの特徴、できること/できないこと、向くこと/向かないことなど、RubyでWebアプリ開発をしている普通のRubyistがGoogleAppEngine/JRuby向けの開発を始めるために知っておくべき１３個(ぐらい)の重要ポイントを一挙公開。</p> 
 							<div class="speaker"> 
 								<img src="images/photo_T.Sasaki.jpg" alt="" height="80" width="80" class="floatLeft"> 
@@ -74,7 +74,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 					</div> 
 					<div class="event"> 
 						<span id="4">15:30 - 15:50</span> 
-						<h4>JRuby on Rails</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> JRuby on Rails</h4> 
 						<p>Soon...</p> 
 							<div class="speaker"> 
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft"> 
@@ -84,7 +84,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 					</div> 
 					<div class="event"> 
 						<span id="5">15:50 - 16:10</span> 
-						<h4>JRubyとDSLでMapReduce ~ Hadoop Papyrus</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> JRubyとDSLでMapReduce ~ Hadoop Papyrus</h4> 
 						<p>Hadoopを使いたいけどJavaは絶対書きたくないすべての人に。Hadoop Papyrusを使ってあなたの悩みを解決しましょう！RubyベースのDSLで、並列分散処理(MapReduce)を意識せずに、大量ログ分析とかができるようになります。</p> 
 							<div class="speaker"> 
 								<img src="images/photo_K.Fujikawa.jpg" alt="" height="80" width="80" class="floatLeft"> 
@@ -94,7 +94,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 					</div> 
 					<div class="event"> 
 						<span id="6">16:10-16:30</span> 
-						<h4>JRubyソースコード解説</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> JRubyソースコード解説</h4> 
 						<p>目的: JRubyソースコードのどこに何があるかを示し、それらがいつどのように協調して振る舞うかをお見せし、最後に実例を使ってJRubyのハックおよびトラブルシュートを行います。</p> 
 							<div class="speaker"> 
 								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft"> 

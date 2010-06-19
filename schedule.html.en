@@ -34,8 +34,8 @@
 				<div class="mid"> 
 					<div class="event"> 
 						<span id="1">13:30 - 14:00 </span> 
-						<h4>Keynote</h4> 
-						<p>Soon...</p> 
+						<h4><img src="./images/usa.gif" alt="en"> Keynote - JRuby: Pony Show</h4> 
+						<p>Thomas and Charles will give an overview of the state of the JRuby project.<br />   They will also give sneak peeks of JRuby's future.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_C.Nutter.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Charles Nutter &lt;<a href="http://twitter.com/headius">@headius</a>&gt;</h5> 
@@ -44,12 +44,12 @@
 							<div class="speaker"> 
 								<img src="images/photo_T.Enebo.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Thomas Eebo &lt;<a href="http://twitter.com/tom_enebo">@tom_enebo</a>&gt;</h5> 
-								<p>Soon...</p> 
+								<p>Co-lead of the JRuby project and general fun guy to have around.<br />  I love Ruby, JRuby, and Java.</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
 						<span id="2">14:00 - 14:30</span> 
-						<h4>Want to use Ruby from Java? RedBridge makes it pretty easy!</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> Want to use Ruby from Java? RedBridge makes it pretty easy!</h4> 
 						<p>From introduction of JRuby to howtos of RedBridge. You’ll get better understandings of JRuby, which leads you effectively to RedBrdige API.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_Y.Harada.jpg" alt="" height="80" width="80" class="floatLeft"> 
@@ -59,7 +59,7 @@
 					</div> 
 					<div class="event"> 
 						<span id="3">14:30 - 15:00</span> 
-						<h4>Rubyist, it's time to develop your Rails app on Google App Engine.</h4> 
+						<h4><img src="./images/japan.gif"> Rubyist, it's time to develop your Rails app on Google App Engine.</h4> 
 						<p>How to install SDK, many AppEngine's features, etc..  I will tell you "13 secrets of GAE" for Rubyists.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_T.Sasaki.jpg" alt="" height="80" width="80" class="floatLeft"> 
@@ -73,7 +73,7 @@
 					</div> 
 					<div class="event"> 
 						<span id="4">15:30 - 15:50</span> 
-						<h4>JRuby on Rails</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> JRuby on Rails</h4> 
 						<p>Soon...</p> 
 							<div class="speaker"> 
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft"> 
@@ -83,7 +83,7 @@
 					</div> 
 					<div class="event"> 
 						<span id="5">15:50 - 16:10</span> 
-						<h4>MapReduce by JRuby and DSL ~ Hadoop Papyrus</h4> 
+						<h4><img src="./images/japan.gif" alt="ja"> MapReduce by JRuby and DSL ~ Hadoop Papyrus</h4> 
 						<p>For all who want to use Hadoop but never to write Java.<br />
 Hadoop Papyrus can make you happy! <br />
 You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p> 
@@ -95,7 +95,7 @@ You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p>
 					</div> 
 					<div class="event"> 
 						<span id="6">16:10-16:30</span> 
-						<h4>JRuby Hacking Guide</h4> 
+						<h4><img src="./images/japan.gif">JRuby Hacking Guide</h4> 
 						<p>Aims; extracting what is where in JRuby source code, showing how those interacts when, and hacking/troubleshooting it by examples in 20 min.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_H.Nakamura.jpg" alt="" height="80" width="80" class="floatLeft"> 
