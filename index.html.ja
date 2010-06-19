@@ -26,7 +26,7 @@
 		<div class="section" id="content"> 
 			<div id="preamble"> 
 				<h2 class="pageTitle">overview</h2> 
-				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Register Now" target="_target"><img src="images/btn-register-now.png" alt="Register Now" height="43" width="187"></a></p> 
+				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Support us" target="_target"><img src="images/btn-support-us.png" alt="Support us" height="43" width="187"></a></p> 
 				<p class="intro">ああああああああああああああああああああああああああああああああ</p> 
 			</div> 
 			
