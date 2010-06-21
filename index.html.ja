@@ -95,6 +95,14 @@
 				</div> 
 				<div class="bot"></div> 
 			</div> 
+
+			<div class="box305" id="support_us"> 
+				<div class="mid"> 
+				  <h3>JRuby Tシャツの予約</h3>
+				<p>JRubyKaigiは皆さんの支援を求めています。JRubyKaigi開催に賛同してくれる方は<a href=''>SUPPORT US</a>からJRuby特製Tシャツ購入予約をお願いします。</p> 
+				</div> 
+				<div class="bot"></div> 
+			</div> 
 			
 			<div class="box305" id="speakers"> 
 				<div class="mid"> 

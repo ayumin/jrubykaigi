@@ -275,6 +275,22 @@ a:hover { text-decoration:underline; }
 		#speakers ul { margin-top:28px; }
 		p#more_speakers { font-size:1.4em; }
 		
+	#support_us {
+		display:inline;
+		float:left;
+		margin:0 0 22px;
+		width:304px;
+	}
+		#support_us h3 {
+			font-size:2.5em;
+			color: white;
+		}
+		#support_us p {
+			color:#d9d9d9;
+			font: 1.5em/1.1em 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, Arial;
+			padding: 10px 10px 10px 10px;
+		}
+
 	/* Schedule - Event Schedule */
 	#wrap {
 		float:right;
