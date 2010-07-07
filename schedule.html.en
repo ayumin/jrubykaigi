@@ -73,12 +73,12 @@
 					</div> 
 					<div class="event"> 
 						<span id="4">15:30 - 15:50</span> 
-						<h4><img src="./images/japan.gif" alt="ja"> JRuby on Rails</h4> 
-						<p>Soon...</p> 
+						<h4><img src="./images/japan.gif" alt="ja">10 things : How to enhance the power of JRuby on Rails using Java EE technology</h4> 
+						<p>Using Java EE technology enhance the power of JRuby on Rails(JRoR) when you use JRoR through SOAP Web service. In this session, I mention 10 things how to enhance the power of JRoR.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5> Hirotsugu ASARI &lt;<a href="http://twitter.com/hiro_asari">@hiro_asari</a>&gt;</h5> 
-								<p>soon</p> 
+								<h5>Yoshiharu HASHIMOTO &lt;<a href="http://twitter.com/hasssie">@hasssie</a>&gt;</h5> 
+								<p>I’m a Java developer for enterprise based in Tokyo and a member of Japan Java User Group. I’m a Ruby lover for 11 years and grope about using JRoR into a real case everyday. Also here is my book; [How to develop JRuby on Rails]</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
