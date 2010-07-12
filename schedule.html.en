@@ -27,7 +27,7 @@
 			<div id="preamble"> 
 				<h2 class="pageTitle">Event Schedule</h2> 
 				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Support us" target="_target"><img src="images/btn-support-us.png" alt="Support us" height="43" width="187"></a></p> 
-				<p class="intro">ああああああああああああああああああああああああああああああああ</p> 
+				<p class="intro">JRuby's significant progress attracts much attention in web development world. In such popularity, we hold JRubyKaigi 2010 in Japan as a sub-event in <a href="http://rubykaigi.org/2010/" target="_blank">RubyKaigi 2010</a>.   In JRubyKaigi 2010,  the core devleopers of JRuby and ardent users gather together and have many interest talks.</p> 
 			</div> 
 			
 			<div class="box722" id="schedule_of_events"> 
