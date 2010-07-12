@@ -27,7 +27,7 @@
 			<div id="preamble">
 				<h2 class="pageTitle">Sponsors</h2>
 				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Support us" target="_target"><img src="images/btn-support-us.png" alt="Support us" height="43" width="187"></a></p>
-				<p class="intro">近年ますます成長しているJRubyに注目が集まっています。 そんなJRubyを開発しているエキスパート達が、日本で一堂に会してJRubyKaigi2010を開催します。皆様も奮ってご参加ください。</p>
+				<p class="intro">近年ますます成長しているJRubyに注目が集まっています。 そんなJRubyを開発しているエキスパート達が、日本で一堂に会してJRubyKaigi2010を開催します。JRubyKaigiは、<a href="http://rubykaigi.org/2010/" target="_blank">RubyKaigi2010チケット</a>で参加できるRubyKaigi内サブイベントです。</p>
 			</div>
 			
 			<div class="box722" id="the_sponsors">
