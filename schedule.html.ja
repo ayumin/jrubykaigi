@@ -75,7 +75,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 					<div class="event"> 
 						<span id="4">15:30 - 15:50</span> 
 						<h4><img src="./images/japan.gif" alt="ja">JRuby on Railsの力をJava EE技術を使ってさらに高める10の方法</h4> 
-						<p>JRuby on Rails（JRoRからSOAP Webサービスを利用したい時などJava EE技術の活用によってJRoRが持つ力をさらに高めることができます。本セッションではJava EE技術を使ってJRoRの力を高めるために知っておくべき10の方法をご紹介します</p> 
+						<p>JRuby on Rails (JRoR)からSOAP Webサービスを利用したい時などJava EE技術の活用によってJRoRが持つ力をさらに高めることができます。本セッションではJava EE技術を使ってJRoRの力を高めるために知っておくべき10の方法をご紹介します。</p> 
 							<div class="speaker"> 
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Yoshiharu HASHIMOTO&lt;<a href="http://twitter.com/hasssie">@hasssie</a>&gt;</h5> 
