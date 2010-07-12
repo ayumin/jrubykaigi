@@ -38,12 +38,17 @@
 						<p>Thomas and Charles will give an overview of the state of the JRuby project.<br />   They will also give sneak peeks of JRuby's future.</p> 
 							<div class="speaker"> 
 								<img src="images/photo_C.Nutter.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Charles Nutter &lt;<a href="http://twitter.com/headius">@headius</a>&gt;</h5> 
-								<p>Soon...</p> 
+								<h5>Charles O.Nutter &lt;<a href="http://twitter.com/headius">@headius</a>&gt;</h5> 
+								<p>Charles works on JRuby, Mirah, Ruboto, and has been a
+vocal advocate for the JVM as a language host. He hopes his work
+within the JVM language community will help keep the Java platform
+alive and healthy for years to come, and continues promoting JRuby and
+the JVM to many communities around the world. Charles blogs at
+<a href="http://blog.headius.com">http://blog.headius.com</a>.</p> 
 							</div> 
 							<div class="speaker"> 
 								<img src="images/photo_T.Enebo.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Thomas Eebo &lt;<a href="http://twitter.com/tom_enebo">@tom_enebo</a>&gt;</h5> 
+								<h5>Thomas E.Eebo &lt;<a href="http://twitter.com/tom_enebo">@tom_enebo</a>&gt;</h5> 
 								<p>Co-lead of the JRuby project and general fun guy to have around.<br />  I love Ruby, JRuby, and Java.</p> 
 							</div> 
 					</div> 
@@ -78,7 +83,7 @@
 							<div class="speaker"> 
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Yoshiharu HASHIMOTO &lt;<a href="http://twitter.com/hasssie">@hasssie</a>&gt;</h5> 
-								<p>I’m a Java developer for enterprise based in Tokyo and a member of Japan Java User Group. I’m a Ruby lover for 11 years and grope about using JRoR into a real case everyday. Also here is my book; [How to develop JRuby on Rails]</p> 
+								<p>I’m a Java developer for enterprise based in Tokyo and a member of Japan Java User Group. I’m a Ruby lover for 11 years and grope about using JRoR into a real case everyday. Also here is my book; [<a href="http://www.amazon.co.jp/dp/4798121444/">How to develop JRuby on Rails</a>]</p> 
 							</div> 
 					</div> 
 					<div class="event"> 

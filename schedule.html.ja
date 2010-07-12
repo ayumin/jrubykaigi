@@ -79,7 +79,7 @@ RedBrdigeを紹介します。RedBrdigeで何が良くなったのか、どん�
 							<div class="speaker"> 
 								<img src="images/photo_A.Hiro.jpg" alt="" height="80" width="80" class="floatLeft"> 
 								<h5>Yoshiharu HASHIMOTO&lt;<a href="http://twitter.com/hasssie">@hasssie</a>&gt;</h5> 
-								<p>某SIer勤務。日本Javaユーザグループ幹事。Rubyを愛して早11年。現在は本番環境でJRoRを採用した案件を増やす方法を模索する毎日。著書に『JRuby on Railsシステム構築入門』など。</p> 
+								<p>某SIer勤務。日本Javaユーザグループ幹事。Rubyを愛して早11年。現在は本番環境でJRoRを採用した案件を増やす方法を模索する毎日。著書に『<a href="http://www.amazon.co.jp/dp/4798121444/">JRuby on Railsシステム構築入門</a>』など。</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
