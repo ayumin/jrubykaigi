@@ -27,7 +27,7 @@
 			<div id="preamble"> 
 				<h2 class="pageTitle">overview</h2> 
 				<p class="register_now"><a href="http://jrubyconf.eventbrite.com/" title="Support us" target="_target"><img src="images/btn-support-us.png" alt="Support us" height="43" width="187"></a></p> 
-				<p class="intro">ああああああああああああああああああああああああああああああああ</p> 
+				<p class="intro">近年ますます成長しているJRubyに注目が集まっています。 そんなJRubyを開発しているエキスパート達が、日本で一堂に会してJRubyKaigi2010を開催します。皆様も奮ってご参加ください。  </p> 
 			</div> 
 			
 			<div class="" id="wrap"> 
@@ -99,7 +99,7 @@
 			<div class="box305" id="support_us"> 
 				<div class="mid"> 
 				  <h3>JRuby Tシャツの予約</h3>
-				<p>JRubyKaigiは皆さんの支援を求めています。JRubyKaigi開催に賛同してくれる方は<a href=''>SUPPORT US</a>からJRuby特製Tシャツ購入予約をお願いします。</p> 
+				<p>JRubyKaigiは皆さんのご支援を求めています。JRubyKaigi開催に賛同してくれる方は<a href=''>SUPPORT US</a>からJRuby特製Tシャツ購入予約をお願いします。</p> 
 				</div> 
 				<div class="bot"></div> 
 			</div> 
