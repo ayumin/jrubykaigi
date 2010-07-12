@@ -35,16 +35,16 @@
 					<div class="event"> 
 						<span id="1">13:30 - 14:00 </span> 
 						<h4><img src="./images/usa.gif" alt="en"> Keynote - JRuby: Pony Show</h4> 
-						<p>Soon...</p> 
+						<p>JRuby開発者のトーマスとチャールズが、JRubyプロジェクトの現況と今後の展望について語ります。</p> 
 							<div class="speaker"> 
 								<img src="images/photo_C.Nutter.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Charles Nutter &lt;<a href="http://twitter.com/headius">@headius</a>&gt;</h5> 
-								<p>Soon...</p> 
+								<h5>Charles O.Nutter &lt;<a href="http://twitter.com/headius">@headius</a>&gt;</h5> 
+								<p>JRubyやMirah、Rubotoの仕事をしています。言語をホストするベースとしてのJVMを熱心に支持しており、JVMで動作する言語のコミュニティでの活動が、Javaプラットフォームが生き残り、健全であり続けるための一助となることを願っています。世界中の様々なコミュニティにJRubyとJVMのプロモーションを行う日々です。ブログ: <a href="http://blog.headius.com">http://blog.headius.com</a></p> 
 							</div> 
 							<div class="speaker"> 
 								<img src="images/photo_T.Enebo.jpg" alt="" height="80" width="80" class="floatLeft"> 
-								<h5>Thomas Eebo &lt;<a href="http://twitter.com/tom_enebo">@tom_enebo</a>&gt;</h5> 
-								<p>Soon...</p> 
+								<h5>Thomas Enebo &lt;<a href="http://twitter.com/tom_enebo">@tom_enebo</a>&gt;</h5> 
+								<p>JRubyプロジェクトのリーダーの一人。一緒にいると面白いと思われる人柄。RubyとJRubyとJavaが大好きです。</p> 
 							</div> 
 					</div> 
 					<div class="event"> 
