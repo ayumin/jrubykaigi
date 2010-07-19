@@ -34,7 +34,9 @@
 			<div class="box404" id="news"> 
 				<div class="mid"> 
 					<h3>News</h3> 
-					<dl> 
+					<dl>
+					<dt>07/24</dt>
+					<dd>JRubyKaigi 2010 is currently assembling proposals for Lightning Talks(LT) on topics related with JRuby or JVM. If you're interested, please apply with abstract of your talk by emailing <a href="mailto:jrubykaigi2010@gmail.com">jrubykaigi2010@gmail.com</a> till 2010-08-14(Sat)[JST].</dd>
 					<dt>07/24</dt> 
 					<dd>Hashtag: #jrubykaigi</dd> 
 					<dt>07/24</dt> 
