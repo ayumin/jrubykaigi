@@ -116,14 +116,33 @@ You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p>
 					<div class="event last_item"> 
 						<span id="7">17:00-18:00</span> 
 						<h4>Lightning Talks</h4> 
-						<p>Soon...</p> 
-<!--
-							<div class="speaker">
-								<img src="images/temp.jpg" alt="" height="80" width="80" class="floatLeft">
-								<h5>aaaaaa</h5>
-								<p>aaaaaa</p>
-							</div>
---> 
+						<div class="speaker">
+						  <dl>
+						    <dt>1. Introduction of Japan JRuby User Group</dt>
+						    <dd><span class='name'>Koichi Fujikawa</span> &lt;<a href='http://twitter.com/fujibee'>@fujibee</a>&gt; / Japan JRuby User Group</dd>
+						    <dt>2. ROMA on JRuby</dt>
+						    <dd><span class='name'>Muga Nishizawa</span> &lt;<a href='http://twitter.com/muga_nishizawa'>@muga_nishizawa</a>&gt; / Rakuten Institute of Technology</dd>
+
+						    <dt>3. All right, then, JRuby!</dt>
+						    <dd><span class='name'>Hidekuni Kajita</span> &lt;<a href='http://twitter.com/hide_nba'>@hide_nba</a>&gt; / Eiwa System Management, Inc.</dd>
+						    <dt>4. Extreme performance with Mirah and Dubious</dt>
+						    <dd><span class='name'>John Woodell</span> &lt;<a href='http://twitter.com/johnwoodell'>@johnwoodell</a>&gt; / Google, Inc.</dd>
+
+						    <dt>5. Rava on JRuby</dt>
+						    <dd><span class='name'>Koichiro Ohba</span> &lt;<a href='http://twitter.com/koichiroo'>@koichiroo</a>&gt; / Akasaka.rb </dd>
+
+						    <dt>6. Testing Your Code with JRuby</dt>
+						    <dd><span class='name'>Ayumu Aizawa</span> &lt;<a href='http://twitter.com/ayumin'>@ayumin</a>&gt; / Akasaka.rb, Accenture Technology Solutions Corp.</dd>
+						    <dt>7. RJB - another choice for Ruby and Java interoperability</dt>
+						    <dd><span class='name'>arton</span> &lt;<a href='http://twitter.com/arton'>@arton</a>&gt; </dd>
+						    <dt>8. Play swing and JDBC with Rubeus</dt>
+						    <dd><span class='name'>Takeshi Akima</span> &lt;<a href='http://twitter.com/akm2000'>@akm2000</a>&gt; / Ruby Business Commons </dd>
+						    <dt>9. Kink: developing a programming language on the JVM</dt>
+						    <dd><span class='name'>Taku Miyakawa</span> &lt;<a href='http://twitter.com/miyakawa_taku'>@miyakawa_taku</a>&gt; / JSOL corp. </dd>
+						    <dt>10. How to make visualize card application using JRuby?</dt>
+						    <dd><span class='name'>Hiroki Kondo</span> &lt;<a href='http://twitter.com/kompiro'>@kompiro</a>&gt;</dd>
+						  </dl>
+						</div>
 					</div> 
 					
 				</div> 

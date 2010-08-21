@@ -392,6 +392,27 @@ a:hover { text-decoration:underline; }
 	.speaker img.floatLeft {
 		margin:0 15px 0 0;
 	}
+
+	.speaker dl {
+	    color:#d9d9d9;
+	    font: 1.5em/1.1em 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, Arial;
+	    padding: 0 3px 3px 3px;
+	}
+	.speaker dt {
+	    color:#ffffcc;
+	    font:1.4em/1.2em Helvetica, Arial;
+	}
+	.speaker dd {
+	    font-size:1.15em;
+	    padding-left: 1.5em;
+	    margin:0 0 9px;
+	}
+	.speaker .name {
+	    color: #ffff;
+	    font-size: 1.2em;
+	    text-transform: none;
+	}
+
 	
 #location_info .mid { padding:1px 40px 32px 0; }
 	#location_info address {

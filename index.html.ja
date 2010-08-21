@@ -34,7 +34,9 @@
 			<div class="box404" id="news"> 
 				<div class="mid"> 
 					<h3>News</h3> 
-					<dl> 
+					<dl>
+					  <dt>08/21</dt>
+					  <dd>LTのプログラムを<a href="schedule.html.ja#7">公開しました</a>。</dd>
 					<dt>07/24<dt>
 					<dd>JRubyやJVMに関連したLTを募集します。希望者は8/14まで概要を<a href="mailto:jrubykaigi2010@gmail.com">jrubykaigi2010@gmail.com</a>へ送ってください。</dd>
 					<dt>07/24</dt> 
