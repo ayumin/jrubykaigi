@@ -60,6 +60,24 @@
 				<div class="bot"></div>
 			</div>
 
+			<div class="box722" id="the_staff">
+				<div class="mid">
+				  <h2>Staff</h2>
+					<div class="sponsor">
+					  <p>
+					    Organizer: <a href='http://twitter/koichiroo'>Koichiro Ohba</a> (Akasaka.rb)<br />
+					    <a href='http://twitter/ayumun'>Ayumu Aizawa</a> (Akasaka.rb)<br />
+					    <a href='http://twitter/kawaguti'>Yasunobu Kawaguchi</a><br />
+					    <a href='http://twitter/denpachi'>Yuuki Tanaka</a> (Everyleaf corp.)<br />
+					    <a href='http://twitter/n_sakuma'>Naohiro Sakuma</a> (Everyleaf corp.)<br />
+					    <a href='http://twitter/fujibee'>Koichi Fujikawa</a> (Japan JRuby User Group)<br>
+					    <a href='http://twitter/muga_nishizawa'>Muga Nishizawa</a> (Rakuten Institute of Technology)<br />
+					  </p>
+					</div>
+				</div>
+				<div class="bot"></div>
+			</div>
+
 			<div class="box722" id="the_spectial_thanks">
 				<div class="mid">
 				  <h2>Special Thanks To</h2>
