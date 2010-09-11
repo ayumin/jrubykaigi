@@ -51,6 +51,10 @@ the JVM to many communities around the world. Charles blogs at
 								<h5>Thomas Enebo &lt;<a href="http://twitter.com/tom_enebo">@tom_enebo</a>&gt;</h5> 
 								<p>Co-lead of the JRuby project and general fun guy to have around.<br />  I love Ruby, JRuby, and Java.</p> 
 							</div> 
+							<p>
+							  Slide: <a href="./downloads/JRubyKaigi2010.pdf">http://jrubyconf.com/jrubykaigi/downloads/JRubyKaigi2010.pdf</a><br />
+							Movie: <a href="http://www.youtube.com/watch?v=9Vqm7JEJ5b8">[1]</a> <a href="http://www.youtube.com/watch?v=sQKmJQMx9P4">[2]</a> <a href="http://www.youtube.com/watch?v=VaJlvg1RrRQ">[3]</a> <a href="http://www.youtube.com/watch?v=Ti5EVkeJkLE">[4]</a>
+							</p>
 					</div> 
 					<div class="event"> 
 						<span id="2">14:00 - 14:30</span> 
@@ -61,6 +65,10 @@ the JVM to many communities around the world. Charles blogs at
 								<h5>Yoko Harada &lt;<a href="http://twitter.com/yokolet">@yokolet</a>&gt;</h5> 
 								<p>I'm a JRuby lover, a committer of JRuby and Nokogiri projects. I like to code in both Ruby and Java, so, I wrote RedBrdige to connect them.</p> 
 							</div> 
+							<p>
+							  Slide: <a href="http://servletgarden-point.appspot.com/slideshow">http://servletgarden-point.appspot.com/slideshow</a><br />
+							Movie: <a href="http://www.youtube.com/watch?v=rSvZHCSkJmk">[1]</a> <a href="http://www.youtube.com/watch?v=XP6rG6wZg4U">[2]</a> <a href="http://www.youtube.com/watch?v=tZT1EXsI0ys">[3]</a> <a href="http://www.youtube.com/watch?v=M6819zTAXHk">[4]</a>
+							</p>
 					</div> 
 					<div class="event"> 
 						<span id="3">14:30 - 15:00</span> 
@@ -71,6 +79,10 @@ the JVM to many communities around the world. Charles blogs at
 								<h5>Takeru SASAKI &lt;<a href="http://twitter.com/urekat">@urekat</a>&gt;</h5> 
 								<p>A committer of appengine-jruby@googlecode. Original author of "the patch enables Rails2 work on GAE" and "DeferredDispatcher".</p> 
 							</div> 
+							<p>
+							  Slide: <a href="https://docs.google.com/present/view?id=0Ac7Jlmgn7MPVZG5reGJyZF8xMTBjY2pqdjVmcA&hl=ja">https://docs.google.com/present/view?id=0Ac7Jlmgn7MPVZG5reGJyZF8xMTBjY2pqdjVmcA&hl=ja</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=RKu0pySj6Ss">[1]</a> <a href="http://www.youtube.com/watch?v=SZ1H3E8Y8uA">[2]</a> <a href="http://www.youtube.com/watch?v=QSatKT5W9L8">[3]</a> <a href="http://www.youtube.com/watch?v=ByB3-Uew2ZE">[4]</a>
+							</p>
 					</div> 
 					<div class="event"> 
 						<span>15:00 - 15:30</span> 
@@ -85,6 +97,10 @@ the JVM to many communities around the world. Charles blogs at
 								<h5>Yoshiharu HASHIMOTO &lt;<a href="http://twitter.com/hasssie">@hasssie</a>&gt;</h5> 
 								<p>I'm a Java developer in Tokyo working on enterprise systems and a member of Japan Java User Group.  I've been a Ruby lover for 11 years and always grope for a way to increase real JRoR projects. I wrote this book; [<a href="http://www.amazon.co.jp/dp/4798121444/">How to develop JRuby on Rails</a>]</p> 
 							</div> 
+							<p>
+							  Slide: <a href="http://www.slideshare.net/hassie/public-20100828-jrubykaigi10thingsjrorwithjavaee">http://www.slideshare.net/hassie/public-20100828-jrubykaigi10thingsjrorwithjavaee</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=DzKRasRbKbg">[1]</a> <a href="http://www.youtube.com/watch?v=AG2KpBqN6fo">[2]</a> <a href="http://www.youtube.com/watch?v=v_RJoi2qX7I">[3]</a>
+							</p>
 					</div> 
 					<div class="event"> 
 						<span id="5">15:50 - 16:10</span> 
@@ -97,6 +113,10 @@ You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p>
 								<h5>Koichi Fujikawa &lt;<a href="http://twitter.com/fujibee">@fujibee</a>&gt;</h5> 
 								<p>Creator of Hadoop Papyrus, which enables you to the massive data handle by using JRuby and original DSL.  Founder of Japan JRuby user group.</p> 
 							</div> 
+							<p>
+							  Slide: <a href="http://www.slideshare.net/fujibee/jrubykaigi2010-hadoop-papyrus">http://www.slideshare.net/fujibee/jrubykaigi2010-hadoop-papyrus</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=05P6U--YkVk">[1]</a> <a href="http://www.youtube.com/watch?v=6soqm8bca9M">[2]</a>
+							</p>
 					</div> 
 					<div class="event"> 
 						<span id="6">16:10-16:30</span> 
@@ -107,6 +127,10 @@ You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p>
                                                                 <h5><a href="http://www.google.com/profiles/nakahiro">Hiroshi NAKAMURA</a> &lt;<a href="http://twitter.com/nahi">@nahi</a>&gt;</h5> 
                                                                 <p>Developer, focusing on security and network. A committeer of <a href="http://jruby.org/">JRuby</a>, <a href="http://github.com/jruby/jruby-ossl">JRuby-OpenSSL</a> and <a href="http://www.ruby-lang.org">CRuby</a>, <a href="http://github.com/nahi/httpclient">httpclient</a>, <a href="http://dev.ctor.org/soap4r">soap4r</a>, <a href="http://dev.ctor.org/openpgp4u">openpgp4u</a>, logger, debug.rb, <a href="http://m.ctor.org/f2p/">m.ctor.org</a>.</p> 
 							</div> 
+							<p>
+							  Slide: <a href="http://prezi.com/tsuouxb3z4ln/jruby-hacking-guide/">http://prezi.com/tsuouxb3z4ln/jruby-hacking-guide/</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=-7nrXrvGzaE">[1]</a> <a href="http://www.youtube.com/watch?v=Xsv2-wXfPjk">[2]</a> <a href="http://www.youtube.com/watch?v=bjAblzIAo_Y">[3]</a>
+							</p>
 					</div> 
 					<div class="event"> 
 						<span>16:30-17:00</span> 
@@ -119,28 +143,55 @@ You can analyze big logs by Ruby-base DSL w/o regard for MapReduce.</p>
 						<div class="speaker">
 						  <dl>
 						    <dt>1. Introduction of Japan JRuby User Group</dt>
-						    <dd><span class='name'>Koichi Fujikawa</span> &lt;<a href='http://twitter.com/fujibee'>@fujibee</a>&gt; / Japan JRuby User Group</dd>
+						    <dd><span class='name'>Koichi Fujikawa</span> &lt;<a href='http://twitter.com/fujibee'>@fujibee</a>&gt; / Japan JRuby User Group<br />
+							  Slide: <a href="https://docs.google.com/present/view?id=dg7gf2mq_662nvkrkhj">https://docs.google.com/present/view?id=dg7gf2mq_662nvkrkhj</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=2J5nJcwOlTM">[1]</a>
+</dd>
 						    <dt>2. ROMA on JRuby</dt>
-						    <dd><span class='name'>Muga Nishizawa</span> &lt;<a href='http://twitter.com/muga_nishizawa'>@muga_nishizawa</a>&gt; / Rakuten Institute of Technology</dd>
+						    <dd><span class='name'>Muga Nishizawa</span> &lt;<a href='http://twitter.com/muga_nishizawa'>@muga_nishizawa</a>&gt; / Rakuten Institute of Technology<br />
+							  Slide: <a href="http://www.slideshare.net/rakutentech/muga-20100828ruby-kaigi-2010-lt">http://www.slideshare.net/rakutentech/muga-20100828ruby-kaigi-2010-lt</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=qwwCRQcf25c">[1]</a>
+</dd>
 
 						    <dt>3. All right, then, JRuby!</dt>
-						    <dd><span class='name'>Hidekuni Kajita</span> &lt;<a href='http://twitter.com/hide_nba'>@hide_nba</a>&gt; / Eiwa System Management, Inc.</dd>
+						    <dd><span class='name'>Hidekuni Kajita</span> &lt;<a href='http://twitter.com/hide_nba'>@hide_nba</a>&gt; / Eiwa System Management, Inc.<br />
+							  Slide: <a href="http://www.slideshare.net/hidenba/j-ruby-kaigi2010lt">http://www.slideshare.net/hidenba/j-ruby-kaigi2010lt</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=k6FJOabheQY&feature=related">[1]</a>
+</dd>
 						    <dt>4. Extreme performance with Mirah and Dubious</dt>
-						    <dd><span class='name'>John Woodell</span> &lt;<a href='http://twitter.com/johnwoodell'>@johnwoodell</a>&gt; / Google, Inc.</dd>
+						    <dd><span class='name'>John Woodell</span> &lt;<a href='http://twitter.com/johnwoodell'>@johnwoodell</a>&gt; / Google, Inc.<br />
+							  Slide: <a href="http://www.slideshare.net/johnwoodell/jrubykaigi-2010">http://www.slideshare.net/johnwoodell/jrubykaigi-2010</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=qEuOUkDZg_0">[1]</a>
+</dd>
 
 						    <dt>5. Rava on JRuby</dt>
-						    <dd><span class='name'>Koichiro Ohba</span> &lt;<a href='http://twitter.com/koichiroo'>@koichiroo</a>&gt; / Akasaka.rb </dd>
+						    <dd><span class='name'>Koichiro Ohba</span> &lt;<a href='http://twitter.com/koichiroo'>@koichiroo</a>&gt; / Akasaka.rb <br />
+							  Slide: <a href="http://www.slideshare.net/koichiro/rava-on-jruby">http://www.slideshare.net/koichiro/rava-on-jruby</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=zVY0gz-lb-Y">[1]</a>
+</dd>
 
 						    <dt>6. Testing Your Code with JRuby</dt>
 						    <dd><span class='name'>Ayumu Aizawa</span> &lt;<a href='http://twitter.com/ayumin'>@ayumin</a>&gt; / Akasaka.rb, Accenture Technology Solutions Corp.</dd>
 						    <dt>7. RJB - another choice for Ruby and Java interoperability</dt>
-						    <dd><span class='name'>arton</span> &lt;<a href='http://twitter.com/arton'>@arton</a>&gt; </dd>
+						    <dd><span class='name'>arton</span> &lt;<a href='http://twitter.com/arton'>@arton</a>&gt; <br />
+							  Slide: <a href="http://www.slideshare.net/artonx/j-ruby-kaigi-2010">http://www.slideshare.net/artonx/j-ruby-kaigi-2010</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=Im46wCgb-QQ">[1]</a>
+</dd>
 						    <dt>8. Play swing and JDBC with Rubeus</dt>
-						    <dd><span class='name'>Takeshi Akima</span> &lt;<a href='http://twitter.com/akm2000'>@akm2000</a>&gt; / Ruby Business Commons </dd>
+						    <dd><span class='name'>Takeshi Akima</span> &lt;<a href='http://twitter.com/akm2000'>@akm2000</a>&gt; / Ruby Business Commons <br />
+							  Slide: <a href="http://www.slideshare.net/akm2000/jrubykaigi2010ltrubeus">http://www.slideshare.net/akm2000/jrubykaigi2010ltrubeus</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=JQxcfY3reu8">[1]</a>
+</dd>
 						    <dt>9. Kink: developing a programming language on the JVM</dt>
-						    <dd><span class='name'>Taku Miyakawa</span> &lt;<a href='http://twitter.com/miyakawa_taku'>@miyakawa_taku</a>&gt; / JSOL corp. </dd>
+						    <dd><span class='name'>Taku Miyakawa</span> &lt;<a href='http://twitter.com/miyakawa_taku'>@miyakawa_taku</a>&gt; / JSOL corp. <br />
+							  Slide: <a href="http://www.slideshare.net/miyakawataku/kink-developing-a-programming-language-on-the-jvm">http://www.slideshare.net/miyakawataku/kink-developing-a-programming-language-on-the-jvm</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=yBDqU_obvZM">[1]</a>
+</dd>
 						    <dt>10. How to make visualize card application using JRuby?</dt>
-						    <dd><span class='name'>Hiroki Kondo</span> &lt;<a href='http://twitter.com/kompiro'>@kompiro</a>&gt;</dd>
+						    <dd><span class='name'>Hiroki Kondo</span> &lt;<a href='http://twitter.com/kompiro'>@kompiro</a>&gt;<br />
+							  Slide: <a href="http://www.slideshare.net/kompiro/jruby-5074964">http://www.slideshare.net/kompiro/jruby-5074964</a><br />
+							  Movie: <a href="http://www.youtube.com/watch?v=EEqpcFIwies">[1]</a>
+</dd>
 						  </dl>
 						</div>
 					</div> 
