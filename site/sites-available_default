@@ -1,0 +1,29 @@
+<VirtualHost jrubykaigi.ctor.org:80>
+    ServerAdmin nahi@ctor.org
+    ServerAlias jrubykaigi.org j.rugykaigi.org
+
+    DocumentRoot /home/nahi/git/jrubykaigi
+    <Directory />
+        Options FollowSymLinks
+        AllowOverride None
+    </Directory>
+    <Directory /home/nahi/git/jrubykaigi/>
+        Options FollowSymLinks MultiViews
+        AllowOverride None
+        Order allow,deny
+        allow from all
+    </Directory>
+    <Directory /home/nahi/git/jrubykaigi/.git/>
+        Order deny,allow
+        Deny from all
+    </Directory>
+    <Location /_>
+        ProxyPass ajp://localhost:18009
+        Order allow,deny
+        Allow from all
+    </Location>
+
+    ErrorLog ${APACHE_LOG_DIR}/error-jrubykaigi.log
+    LogLevel warn
+    CustomLog ${APACHE_LOG_DIR}/access-jrubykaigi.log combined
+</VirtualHost>
