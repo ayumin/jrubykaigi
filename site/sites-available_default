@@ -1,5 +1,6 @@
 <VirtualHost jrubykaigi.ctor.org:80>
     ServerAdmin nahi@ctor.org
+    ServerAlias jrubykaigi.org j.rugykaigi.org
 
     DocumentRoot /home/nahi/git/jrubykaigi
     <Directory />
