@@ -24,6 +24,8 @@
     </Location>
 
     RedirectMatch 302 ^/$ /2011/
+    RedirectMatch 301 ^/downloads/JRubyKaigi2010.pdf$ /2010/downloads/JRubyKaigi2010.pdf
+    RedirectMatch 301 ^/(schedule.html.*)$ /2010/$1
 
     ErrorLog ${APACHE_LOG_DIR}/error-jrubykaigi.log
     LogLevel warn
