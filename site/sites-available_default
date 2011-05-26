@@ -23,6 +23,8 @@
         Allow from all
     </Location>
 
+    RedirectMatch 302 ^/$ /2011/
+
     ErrorLog ${APACHE_LOG_DIR}/error-jrubykaigi.log
     LogLevel warn
     CustomLog ${APACHE_LOG_DIR}/access-jrubykaigi.log combined
