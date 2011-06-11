@@ -20,7 +20,7 @@ h1 {
   height: 500px;
   display: block;
   float: left;
-  margin: 10px;
+  margin: 5px;
   vertigal-align: top; }
 
 #main:after {
@@ -34,7 +34,7 @@ h1 {
   width: 240px;
   border: 1px solid pink;
   display: inline-block;
-  margin: 10px;
+  margin: 5px;
   vertical-align: top; }
 
 #slideshow {
