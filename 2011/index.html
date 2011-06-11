@@ -17,6 +17,11 @@
         JRubyKaigi would never end!
       </div>
       <div id='main'><div id='information'>
+      <a class='twitter-share-button' data-count='horizontal' data-via='jrubykaigi' href='http://twitter.com/share'>Tweet</a>
+      <script src='http://platform.twitter.com/widgets.js' type='text/javascript'></script>
+      <!--
+        <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fthankfromjapan.jp%2Fprayandthank%2F&amp;amp;layout=button_count&amp;amp;show_faces=true&amp;amp;width=450&amp;amp;action=like&amp;amp;font&amp;amp;colorscheme=light&amp;amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+      -->
         <h2>
           Registration
         </h2>
@@ -57,20 +62,93 @@
             </ul>
           </li>
           <li>22:00 クロージング - Closing</li>
-        </ul></div></div><div id='sponsors'><h2>
-        Sponsors
-      </h2>
-      <div class='sponsor'>
-        <img src='images/doorkeeper.png' />
-        Doorkeeper
-      </div>
-      <div class='sponsor'>
-        heyday
-      </div></div><div id='parts'><div id='references'><h2>About JRubyKaigi2011</h2>
+        </ul></div></div>
+      <div id='parts'><div id='references'><h2>About JRubyKaigi2011</h2>
         <h3>Members</h3>
-        <h3>Links</h3></div><div id='tweets'><h2>
-          <div id='jrubykaigi'></div>
-        </h2></div><div id='movies'><h2>Movies</h2></div></div>
+        <h4>実行委員長</h4>
+        相澤歩 / Akasaka.rb @ayumin
+        <h4>実行委員</h4>
+        <ul>
+          <li>中村浩士 / JRubyコミッター @nahi</li>
+          <li>西澤無我 /楽天技術研究所 @muga_nishizawa</li>
+          <li>大場光一郎 / Akasaka.rb @koichiroo</li>
+          <li>藤川幸一 / JRubyユーザ会代表 @fujibee</li>
+          <li>橋本吉治 / JJUG幹事 @hasssie</li>
+        </ul>
+        <h4>デザインワーク</h4>
+        <ul>
+          <li>@maicos</li>
+          <li>
+            <a href='http://heyday.jp' target='blank'>
+              松村映子 @noid / heyday Inc.
+            </a>
+          </li>
+        </ul>
+        <h4>Special Thanks</h4>
+        <ul>
+          <li>原田洋子さん @yokolet</li>
+          <li>
+            <a href='http://www.doorkeeper.jp' target='blank'>
+              Doorkeeper
+            </a>
+          </li>
+          <li>
+            <a href='http://www.engineyard.com/' target='blank'>
+              米国EngineYard社
+            </a>
+          </li>
+          <li>日本オラクル株式会社</li>
+        </ul><div id='sponsors'><h3>
+          Sponsors
+        </h3>
+        <div class='logoclouds'>
+          <a href='http://www.doorkeeper.jp/' target='blank' text='Doorkerper'>
+            <img alt='Doorkerper' src='./images/sponsors/doorkeeper.png' />
+          </a>
+          <a href='http://heyday.jp' target='blank' text='Heyday'>
+            <img alt='Heyday' src='./images/sponsors/heyday.jpg' />
+          </a>
+        </div></div></div><div id='tweets'><h2>
+          !#jrubykaigi
+        </h2>
+        <script src='http://widgets.twimg.com/j/2/widget.js'></script>
+        <script type='text/javascript'>
+          //<![CDATA[
+            //
+              new TWTR.Widget({
+                version: 2,
+                type: 'search',
+                search: 'jrubykaigi -RT',
+                interval: 6000,
+                title: '',
+                subject: '',
+                width: 'auto',
+                height: 200,
+                theme: {
+                  shell: {
+                    background: 'none',
+                    color: '#444444'
+                  },
+                  tweets: {
+                    background: 'none',
+                    color: '#444444',
+                    links: '#ccc'
+                  }
+                },
+                features: {
+                  scrollbar: true,
+                  loop: false,
+                  live: true,
+                  hashtags: true,
+                  timestamp: true,
+                  avatars: true,
+                  toptweets: false,
+                  behavior: 'default'
+                }
+                }).render().start();
+            //
+          //]]>
+        </script></div><div id='movies'><h2>Movies</h2></div></div>
     </div>
   </body>
 </html>
