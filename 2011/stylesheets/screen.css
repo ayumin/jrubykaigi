@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background: #eee;
-  font-family: 'Myriad Pro'; }
+  font-family: 'Myriad Pro';
+  font-size: 82%; }
 
 h1 {
   background: url("../images/jrubykaigi2011_logo.png") no-repeat 50% 50%;
@@ -25,8 +26,12 @@ h2, h3 {
   border-radius: 10px;
   border: 1px solid #bbb;
   background: #fff;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #bbb;
+  background: #fff;
   width: 320px;
-  height: 500px;
+  min-height: 300px;
   display: block;
   float: left;
   margin: 5px;
@@ -45,17 +50,22 @@ h2, h3 {
   -webkit-border-radius: 10px;
   -khtml-border-radius: 10px;
   border-radius: 10px;
-  width: 320px;
-  border: 1px solid pink;
-  display: inline-block;
+  border: 1px solid #bbb;
+  background: #fff;
   margin: 5px;
   padding: 10px;
+  width: 320px;
+  display: inline-block;
+  min-height: 300px;
   vertical-align: top; }
 
 #slideshow {
   background: white;
   border: 3px double gray;
   border-width: 3px 0; }
+
+#sponsors .logoclouds {
+  text-align: center; }
 
 .message {
   background: url(../images/jruby_duke.png) left 50% no-repeat;
