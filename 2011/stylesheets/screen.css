@@ -1,26 +1,36 @@
 body {
   margin: 0;
   padding: 0;
-  background: #eee; }
+  background: #eee;
+  font-family: 'Myriad Pro'; }
 
 h1 {
   background: url("../images/jrubykaigi2011_logo.png") no-repeat 50% 50%;
   text-indent: -9999px;
   overflow: hidden;
-  width: 1000px;
+  width: 1060px;
   height: 240px; }
 
+h2, h3 {
+  margin: 0.2em 0; }
+
 #wrapper {
-  width: 960px;
+  width: 1060px;
   margin: auto; }
 
 #main > * {
-  border: 1px solid red;
-  width: 300px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
+  border: 1px solid #bbb;
+  background: #fff;
+  width: 320px;
   height: 500px;
   display: block;
   float: left;
   margin: 5px;
+  padding: 10px;
   vertigal-align: top; }
 
 #main:after {
@@ -31,10 +41,15 @@ h1 {
   visibility: hidden; }
 
 #parts > * {
-  width: 240px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
+  width: 320px;
   border: 1px solid pink;
   display: inline-block;
   margin: 5px;
+  padding: 10px;
   vertical-align: top; }
 
 #slideshow {
@@ -43,7 +58,7 @@ h1 {
   border-width: 3px 0; }
 
 .message {
-  background: url(../images/jruby.png) left 50% no-repeat;
+  background: url(../images/jruby_duke.png) left 50% no-repeat;
   font-style: italic;
   height: 60px;
   padding-left: 64px;
