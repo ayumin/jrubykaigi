@@ -1,29 +1,36 @@
 body {
   margin: 0;
   padding: 0;
-  background: #eee;
-  font-family: 'Myriad Pro';
-  font-size: 82%; }
+  background: url(../images/brick.jpg) repeat-y right 60px black;
+  font-family: 'Myriad Pro'; }
 
 h1 {
-  background: url("../images/jrubykaigi2011_logo.png") no-repeat 50% 50%;
+  margin: 0;
+  background: url("") no-repeat 50% 50%;
   text-indent: -9999px;
   overflow: hidden;
-  width: 1060px;
+  width: 1500px;
   height: 240px; }
 
-h2, h3 {
-  margin: 0.2em 0; }
+h2, h3, h4 {
+  margin: 0; }
+
+h2 {
+  border-bottom: 3px double #fdc;
+  font-size: 200%; }
 
 #wrapper {
-  width: 1060px;
-  margin: auto; }
+  padding-left: 200px;
+  width: 1300px;
+  margin: auto;
+  margin-right: 0;
+  background: url(../images/wall.jpg) no-repeat right top transparent; }
 
 #main > * {
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -khtml-border-radius: 10px;
-  border-radius: 10px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
   border: 1px solid #bbb;
   background: #fff;
   margin: 5px;
@@ -46,10 +53,10 @@ h2, h3 {
   visibility: hidden; }
 
 #parts > * {
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -khtml-border-radius: 10px;
-  border-radius: 10px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
   border: 1px solid #bbb;
   background: #fff;
   margin: 5px;
@@ -73,3 +80,24 @@ h2, h3 {
   height: 60px;
   padding-left: 64px;
   line-height: 50px; }
+
+#information {
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
+  border: 1px solid #bbb;
+  background: #fff;
+  margin: 5px;
+  padding: 10px;
+  margin-right: 450px;
+  margin-left: 435px;
+  width: 590px; }
+
+#registration form {
+  margin: 30px; }
+  #registration form input {
+    display: block;
+    width: 100%;
+    margin: 4px;
+    font-size: 120%; }
