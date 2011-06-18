@@ -1,2 +1,5 @@
 .htaccess
 .htpassword
+.DS_Store
+.project
+.settings/
