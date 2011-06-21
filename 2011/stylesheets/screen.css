@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background: url(../images/brick.jpg) repeat-y right 60px black;
-  font-family: 'Myriad Pro'; }
+  font-family: 'Myriad Pro';
+  font-size: 85%; }
 
 h1 {
   margin: 0;
@@ -16,8 +17,10 @@ h2, h3, h4 {
   margin: 0; }
 
 h2 {
-  border-bottom: 3px double #fdc;
-  font-size: 200%; }
+  border-bottom: 10px solid #fdc;
+  text-align: center;
+  font-size: 200%;
+  margin-bottom: 10px; }
 
 #wrapper {
   padding-left: 200px;
@@ -27,17 +30,12 @@ h2 {
   background: url(../images/wall.jpg) no-repeat right top transparent; }
 
 #main > * {
-  -moz-border-radius: 20px;
-  -webkit-border-radius: 20px;
-  -khtml-border-radius: 20px;
-  border-radius: 20px;
-  border: 1px solid #bbb;
+  border: 6px solid #000;
   background: #fff;
+  color: black;
   margin: 5px;
   padding: 10px;
-  border: 1px solid #bbb;
-  background: #fff;
-  width: 320px;
+  width: 300px;
   min-height: 300px;
   display: block;
   float: left;
@@ -53,15 +51,12 @@ h2 {
   visibility: hidden; }
 
 #parts > * {
-  -moz-border-radius: 20px;
-  -webkit-border-radius: 20px;
-  -khtml-border-radius: 20px;
-  border-radius: 20px;
-  border: 1px solid #bbb;
+  border: 6px solid #000;
   background: #fff;
+  color: black;
   margin: 5px;
   padding: 10px;
-  width: 320px;
+  width: 300px;
   display: inline-block;
   min-height: 300px;
   vertical-align: top; }
@@ -73,6 +68,8 @@ h2 {
 
 #sponsors .logoclouds {
   text-align: center; }
+  #sponsors .logoclouds a {
+    display: block; }
 
 .message {
   background: url(../images/jruby_duke.png) left 50% no-repeat;
@@ -82,17 +79,15 @@ h2 {
   line-height: 50px; }
 
 #information {
-  -moz-border-radius: 20px;
-  -webkit-border-radius: 20px;
-  -khtml-border-radius: 20px;
-  border-radius: 20px;
-  border: 1px solid #bbb;
+  border: 6px solid #000;
   background: #fff;
+  color: black;
   margin: 5px;
   padding: 10px;
-  margin-right: 450px;
-  margin-left: 435px;
-  width: 590px; }
+  margin-left: 410px;
+  width: 579px; }
+  #information h2 {
+    text-align: left; }
 
 #registration form {
   margin: 30px; }
@@ -101,3 +96,7 @@ h2 {
     width: 100%;
     margin: 4px;
     font-size: 120%; }
+
+#movies p {
+  text-align: center;
+  margin: 3em; }
