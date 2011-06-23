@@ -1,44 +1,40 @@
 body {
   margin: 0;
   padding: 0;
-  background: url(../images/brick.jpg) repeat-y right 60px black;
-  font-family: 'Myriad Pro';
-  font-size: 85%; }
+  background: url(../images/brick.jpg) repeat-y center 60px black;
+  font-family: 'Myriad Pro'; }
 
 h1 {
   margin: 0;
   background: url("") no-repeat 50% 50%;
   text-indent: -9999px;
   overflow: hidden;
-  width: 1500px;
+  width: 1080px;
   height: 240px; }
 
 h2, h3, h4 {
   margin: 0; }
 
 h2 {
-  border-bottom: 10px solid #fdc;
+  border-bottom: 6px solid #fdc;
   text-align: center;
-  font-size: 200%;
+  font-size: 140%;
   margin-bottom: 10px; }
 
 #wrapper {
-  padding-left: 200px;
-  width: 1300px;
+  width: 680px;
   margin: auto;
-  margin-right: 0;
-  background: url(../images/wall.jpg) no-repeat right top transparent; }
+  padding: 0 200px;
+  background: url(../images/wall.jpg) no-repeat center top transparent; }
 
 #main > * {
   border: 6px solid #000;
-  background: #fff;
+  background: #ffe;
   color: black;
   margin: 5px;
   padding: 10px;
-  width: 300px;
   min-height: 300px;
   display: block;
-  float: left;
   margin: 5px;
   padding: 10px;
   vertigal-align: top; }
@@ -52,24 +48,34 @@ h2 {
 
 #parts > * {
   border: 6px solid #000;
-  background: #fff;
+  background: #ffe;
   color: black;
   margin: 5px;
   padding: 10px;
-  width: 300px;
+  width: 298px;
   display: inline-block;
   min-height: 300px;
   vertical-align: top; }
+
+#bottom {
+  margin: 3em 5px;
+  color: #f7eeee; }
+  #bottom h2 {
+    border-bottom: 1px dotted #f7eeee;
+    text-align: left; }
+  #bottom a {
+    color: #66ccee; }
 
 #slideshow {
   background: white;
   border: 3px double gray;
   border-width: 3px 0; }
 
-#sponsors .logoclouds {
-  text-align: center; }
+#sponsors {
+  width: 100%; }
   #sponsors .logoclouds a {
-    display: block; }
+    display: inline-block;
+    vertical-align: middle; }
 
 .message {
   background: url(../images/jruby_duke.png) left 50% no-repeat;
@@ -80,23 +86,32 @@ h2 {
 
 #information {
   border: 6px solid #000;
-  background: #fff;
+  background: #ffe;
   color: black;
   margin: 5px;
-  padding: 10px;
-  margin-left: 560px;
-  width: 429px; }
+  padding: 10px; }
   #information h2 {
     text-align: left; }
 
-#registration form {
-  margin: 30px; }
-  #registration form input {
-    display: block;
-    width: 100%;
-    margin: 4px;
-    font-size: 120%; }
+#registration {
+  margin: 2em 0;
+  text-align: center; }
+  #registration input {
+    margin: 4px; }
+  #registration input[type='text'] {
+    width: 400px; }
 
 #movies p {
   text-align: center;
   margin: 3em; }
+
+#contribute > div {
+  font-size: 90%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1em; }
+  #contribute > div h2 {
+    border-bottom: 1px dotted; }
+  #contribute > div ul {
+    list-style: none;
+    padding-left: 1em; }
